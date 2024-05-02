@@ -1,0 +1,458 @@
+13_Cornelius Hodkiewicz II Quo Vadis_Jamison Mitchell Jr. A Farewell to Arms genre: Fanfiction_90.4783699161052_2.936235_22
+14_Francina Beier Beneath the Bleeding_Mrs. Andra Cartwright Nine Coaches Waiting genre: Fiction in verse_72.83822592569447_2.6511347_14
+15_Ralph Mante Nine Coaches Waiting_Brett Legros A Time to Kill genre: Speech_107.52732335366736_1.1612338_39
+16_Gillian Little II If I Forget Thee Jerusalem_Cherly Zboncak Look Homeward, Angel genre: Textbook_47.37723116522066_1.4423655_26
+17_Karlene Littel That Good Night_Buffy Frami The Grapes of Wrath genre: Folklore_52.83520673351914_1.4554912_23
+18_Bea Champlin That Good Night_Kyong Pollich The Road Less Traveled genre: Humor_32.18327703873528_2.6051228_29
+19_Felton McGlynn Great Work of Time_Toby Mann Fair Stood the Wind for France genre: Classic_30.69572809264448_1.5961415_10
+20_Elmo Runolfsson Blue Remembered Earth_Christia Jaskolski Stranger in a Strange Land genre: Western_63.54241797516609_2.350064_32
+21_Mrs. Blair Langworth Unweaving the Rainbow_Blondell Lakin Great Work of Time genre: Fiction narrative_98.52274439677993_4.5716734_34
+22_Walter Brakus The Heart Is a Lonely Hunter_Ladonna Koss Dance Dance Dance genre: Speech_75.84732759698726_4.270203_29
+23_Ms. Dustin Rolfson No Country for Old Men_Sammie Fay O Pioneers! genre: Narrative nonfiction_19.991568328610327_3.240324_23
+24_Edgar Fritsch As I Lay Dying_Jules Greenholt Postern of Fate genre: Crime/Detective_80.11459357225488_1.9929516_30
+25_Shante Feeney The Moving Toyshop_Edra Jacobi II Have His Carcase genre: Historical fiction_28.670032629755447_2.7370799_22
+26_Jenae Greenfelder The Widening Gyre_Marc Gerhold It's a Battlefield genre: Biography/Autobiography_58.22465436539815_4.9538355_31
+27_Myung Mante Beyond the Mexique Bay_Dr. Efren Bailey The Moving Finger genre: Western_63.78393931542565_3.7454138_32
+28_Thaddeus Jaskolski The Heart Is Deceitful Above All Things_Benedict Hane For a Breath I Tarry genre: Crime/Detective_33.12006818282271_3.3520706_12
+29_Candance Hand In a Dry Season_Kelly Moen This Lime Tree Bower genre: Folklore_114.23091269479197_1.1010834_38
+30_Minh Tillman I The Stars' Tennis Balls_Roselle Welch The Line of Beauty genre: Speech_57.81839843100184_2.7959628_39
+31_Santa Kreiger Those Barren Leaves, Thrones, Dominations_Cleora Gleason III Fame Is the Spur genre: Tall tale_101.268537791933_1.7171979_15
+32_Cammie Bauch PhD In a Dry Season_Nathan Nienow I Tirra Lirra by the River genre: Essay_97.31890833128662_1.8992798_11
+33_Maryellen Koss In Death Ground_Elva Casper Blithe Spirit genre: Narrative nonfiction_71.8985374645427_4.7036743_15
+34_Maurice Hilpert DDS By Grand Central Station I Sat Down and Wept_Dr. Porter Cummings Lilies of the Field genre: Realistic fiction_65.2176513002162_2.80851_14
+35_Israel Wolff The Sun Also Rises_Porsha Corkery Surprised by Joy genre: Western_108.47743932026556_3.1791048_11
+36_Boris Ratke An Instant In The Wind_Isidro Graham Absalom, Absalom! genre: Fiction narrative_108.69097969122606_4.67292_29
+37_Alica White Absalom, Absalom!_Nelle Ortiz Infinite Jest genre: Historical fiction_72.32205725269606_4.2053204_36
+38_Lavone Kozey DDS O Jerusalem!_Bobbie Hagenes To Your Scattered Bodies Go genre: Reference book_103.74828088051278_3.4497113_23
+39_Madeleine Dickens Alone on a Wide, Wide Sea_Ina Harris I The Proper Study genre: Folklore_44.04925362792478_2.2684808_27
+40_Chelsey Lehner This Lime Tree Bower_Curt Turner The Line of Beauty genre: Essay_49.263366063442966_3.888001_16
+41_Mark Bergstrom The Moon by Night_Alfred Kris Death Be Not Proud genre: Fairy tale_47.285067667265245_4.7267547_20
+42_Evangeline Jaskolski A Monstrous Regiment of Women_Deanne Stracke DVM The Moon by Night genre: Crime/Detective_109.93067395750907_3.4679985_21
+43_Carmen Jaskolski MD In Dubious Battle_Blair Hintz I Know Why the Caged Bird Sings genre: Textbook_108.57740332921716_1.7724726_24
+44_Daniele Wilkinson Quo Vadis_Alan Mraz Specimen Days genre: Tall tale_111.30496650277203_3.5832207_34
+45_Myrl Gottlieb II In Dubious Battle_Carmen Heathcote Death Be Not Proud genre: Legend_20.41547457939484_4.0324597_29
+46_Miss Stevie Yundt Mother Night_Mrs. Noma Lockman Infinite Jest genre: Fanfiction_95.50647750029924_3.1291063_20
+47_Jame Bogisich No Country for Old Men_Dorsey D'Amore I Sing the Body Electric genre: Classic_108.95194028997986_2.4579802_36
+48_Mr. Vaughn Lehner The Proper Study_Agueda Fay A Time of Gifts genre: Crime/Detective_94.73041721913462_2.3735578_21
+49_Ms. Frances Fay Now Sleeps the Crimson Petal_Jaclyn Lowe DVM The Wealth of Nations genre: Metafiction_28.281656976371426_2.3267593_14
+50_Agatha Prohaska Sr. The Violent Bear It Away_Silas Medhurst To Your Scattered Bodies Go genre: Horror_16.800355487774564_1.6939414_26
+51_Nedra Schmidt Where Angels Fear to Tread_Dorthey Jerde What's Become of Waring genre: Textbook_91.08295964449584_3.872803_20
+52_Addie Flatley A Darkling Plain_Clifford Zemlak Gone with the Wind genre: Fanfiction_87.746897608297_3.3185523_31
+53_Dr. Kanesha Tillman I Will Fear No Evil_Suzi Crooks MD No Highway genre: Short story_25.38996108100242_2.3416076_27
+54_Damion Bartoletti Tender Is the Night_Todd Blick This Lime Tree Bower genre: Classic_90.56161875726585_2.1436806_39
+55_Ileana Graham Françoise Sagan_Agustin Casper Recalled to Life genre: Fairy tale_110.74132238731325_3.3927648_38
+56_Stevie Deckow The Millstone_Jonah Harvey Sr. Quo Vadis genre: Fairy tale_36.34380399959582_1.2328241_35
+57_Alisha Price MD Quo Vadis_Dr. Golden Douglas Number the Stars genre: Comic/Graphic Novel_77.6336312201666_3.1802974_27
+58_Otelia Kertzmann Postern of Fate_Lauren Lehner The Soldier's Art genre: Speech_18.18454870090776_4.65246_16
+59_Karin Upton DDS Where Angels Fear to Tread_Janet Heaney Things Fall Apart genre: Reference book_52.97506993661317_2.762249_29
+60_Sharen Mohr V Shall not Perish_Shila Hand IV The House of Mirth genre: Science fiction_23.16668808978679_4.4567695_30
+61_Efren Parker The Glory and the Dream_Sherwood Parker The Way Through the Woods genre: Fanfiction_44.15360382880602_4.5414853_21
+62_Gilbert Wintheiser Those Barren Leaves, Thrones, Dominations_Andrew Wolf The Stars' Tennis Balls genre: Textbook_112.33515458167042_2.1869316_31
+63_Daphine Hand Blue Remembered Earth_Corrine Hand When the Green Woods Laugh genre: Essay_85.65755892598632_4.2232375_25
+64_Oliver Erdman A Many-Splendoured Thing_Ludivina Corwin A Confederacy of Dunces genre: Realistic fiction_50.63321933102343_2.1717849_24
+65_Yahaira Hauck Jr. Waiting for the Barbarians_Ms. Ollie Koelpin The Soldier's Art genre: Speech_27.356542283729908_3.483076_33
+66_Dino Hamill Jr. If Not Now, When?_Ricky Champlin Paths of Glory genre: Western_61.51591622515227_4.8658605_10
+67_Kiera Herman Sr. The Skull Beneath the Skin_Mrs. Haywood Beatty Ego Dominus Tuus genre: Mythopoeia_42.19598705995436_1.5506061_10
+68_Stephen O'Reilly Noli Me Tangere_Anibal Kihn The Wealth of Nations genre: Mystery_56.8403862980435_1.7857792_23
+69_Anderson Rowe When the Green Woods Laugh_Diedre Casper Jr. The Yellow Meads of Asphodel genre: Crime/Detective_34.99584236437434_3.795667_31
+70_Elias Nader The Way of All Flesh_Kenton Mohr The Golden Bowl genre: Metafiction_18.979101160873288_2.3418548_33
+71_Gordon O'Conner For Whom the Bell Tolls_Rosario Hoeger MD Vanity Fair genre: Mythopoeia_72.27667778972015_4.909076_16
+72_Shirleen Romaguera Let Us Now Praise Famous Men_Cole Wyman From Here to Eternity genre: Essay_85.87853289180994_1.7311325_12
+73_Mrs. Thomas Ferry As I Lay Dying_Mr. Alicia Torp The Line of Beauty genre: Speech_46.756331075881036_4.340415_32
+74_Alyce Grant A Handful of Dust_Elizbeth Johnson Time To Murder And Create genre: Fairy tale_62.65304749206917_1.4712158_24
+75_Carlton Veum Lilies of the Field_Armando Wolff To Sail Beyond the Sunset genre: Short story_77.74611020911598_2.4198895_21
+76_Kermit Kirlin Recalled to Life_Sherice Farrell Endless Night genre: Historical fiction_86.60923843248304_1.2086737_17
+77_Dillon Pfeffer Antic Hay_Sebastian Hettinger From Here to Eternity genre: Legend_110.69367844520308_3.366339_20
+78_Joe Stokes Moab Is My Washpot_Arianne Corkery The Parliament of Man genre: Historical fiction_42.37474190477784_1.916802_29
+79_Tammy Will In Dubious Battle_Colene Hane Recalled to Life genre: Tall tale_63.32434908652862_3.672919_19
+80_Mr. Rodger Veum The Moving Toyshop_Ms. Stephen Medhurst Waiting for the Barbarians genre: Crime/Detective_25.780433668811405_3.9776535_17
+81_Jesse Gibson DDS A Scanner Darkly_Ammie Runolfsdottir Unweaving the Rainbow genre: Horror_112.16456156812318_2.8572237_34
+82_Jon Durgan The Violent Bear It Away_Mariel Stokes The Far-Distant Oxus genre: Mythopoeia_109.72596962546079_3.0827184_26
+83_Paul Mohr The Way of All Flesh_Angle Carter That Hideous Strength genre: Fiction narrative_78.82017979137159_3.1425953_25
+84_Fred Zemlak I Will Fear No Evil_Adena Bode Wildfire at Midnight genre: Mythology_72.54361520299729_4.2330904_29
+85_Carri Leannon Now Sleeps the Crimson Petal_Rubye Padberg Ah, Wilderness! genre: Short story_59.5439154771657_4.368463_34
+86_Gayle Hilpert Death Be Not Proud_Shawnee Schuppe I In a Glass Darkly genre: Fantasy_114.14914612187364_3.908536_20
+87_Doug Feeney DDS Pale Kings and Princes_Chau Jast It's a Battlefield genre: Narrative nonfiction_110.86493917774571_4.563671_11
+88_Nakisha Bednar III The Man Within_Porfirio Kautzer The Grapes of Wrath genre: Historical fiction_42.004340381235906_4.9282823_29
+89_Troy Gleichner I Jesting Pilate_Alejandro Corkery Let Us Now Praise Famous Men genre: Mythopoeia_17.060624974429814_3.5993152_23
+90_Cyril Farrell A Catskill Eagle_Miss Ira Upton If I Forget Thee Jerusalem genre: Fantasy_46.77290329343848_2.5546577_24
+91_Elia McGlynn The Millstone_Jamaal Keeling The Far-Distant Oxus genre: Tall tale_97.90463257364003_4.7955194_39
+92_Sheldon Bailey The Wind's Twelve Quarters_Despina Heaney Antic Hay genre: Fable_75.37865880425376_4.591676_31
+93_Jennell Olson To Sail Beyond the Sunset_Mafalda Dicki Recalled to Life genre: Comic/Graphic Novel_85.49329634152103_3.106214_35
+94_Allison Steuber A Catskill Eagle_Margy Weissnat A Summer Bird-Cage genre: Essay_20.506391669064726_1.889357_33
+95_Jamie Ward PhD A Time of Gifts_Johnnie Gusikowski Fame Is the Spur genre: Fable_92.28765942856377_3.551301_16
+96_Vernetta Herzog The Soldier's Art_Roseanne Runolfsson The World, the Flesh and the Devil genre: Fantasy_83.64451194953787_1.7536955_21
+97_Jeanelle Franecki Blood's a Rover_Mr. Donovan Jacobson Many Waters genre: Biography/Autobiography_86.25278520106603_3.097936_11
+98_Synthia McDermott A Swiftly Tilting Planet_Rafael Breitenberg In a Dry Season genre: Legend_91.46515071813933_2.9419122_13
+99_Addie Rice IV In Death Ground_Louis Koch The Curious Incident of the Dog in the Night-Time genre: Fairy tale_77.75802893194333_3.591005_29
+100_Keenan Blanda Moab Is My Washpot_Suellen Heidenreich A Glass of Blessings genre: Fanfiction_90.26854009777324_2.5405324_29
+101_Dr. Jolie Ryan Frequent Hearses_Donovan Jerde Look to Windward genre: Essay_43.538419127571686_3.163566_28
+102_Hayden Halvorson The Needle's Eye_Otilia Hyatt The Moving Finger genre: Folklore_52.670349898788025_2.1151774_36
+103_Raylene Gibson V When the Green Woods Laugh_Emilee Shanahan Antic Hay genre: Textbook_69.51172243939192_2.5750122_35
+104_Garth Schinner I Sing the Body Electric_Sherika Lemke The Wealth of Nations genre: Essay_76.65516538947878_4.8083215_29
+105_Armando Zboncak Fear and Trembling_Harry Jerde That Good Night genre: Tall tale_82.7899281274671_1.0693812_17
+106_Heidy Langworth When the Green Woods Laugh_Elmira Lowe The Golden Bowl genre: Science fiction_66.2170153310548_2.954826_12
+107_Monserrate Hand The Little Foxes_Jc Heathcote Jr. Infinite Jest genre: Folklore_77.19639138818056_4.7475004_37
+108_Dr. Dede Zemlak Time To Murder And Create_Nell Ratke A Monstrous Regiment of Women genre: Fable_61.406181996984145_3.3825078_22
+109_Miss Chi Wyman Jacob Have I Loved_Anton Mann The Way of All Flesh genre: Historical fiction_71.56729873366692_4.4209065_26
+110_Brynn Denesik I A Many-Splendoured Thing_Lionel Dicki Nectar in a Sieve genre: Humor_44.73592885235927_1.6514181_26
+111_Lacie Farrell Wildfire at Midnight_Roderick Barrows For a Breath I Tarry genre: Narrative nonfiction_98.83235183464839_1.9666522_32
+112_Myong Mante No Country for Old Men_Dani Parisian Waiting for the Barbarians genre: Fiction narrative_31.295535543913363_3.5336416_14
+113_Loyd Hamill Absalom, Absalom!_Larry Connelly A Catskill Eagle genre: Tall tale_21.275910434280984_1.0215734_33
+114_Courtney Walter Arms and the Man_Mr. Cleopatra Nikolaus Butter In a Lordly Dish genre: Mystery_46.97757991877332_3.2053437_12
+115_Minda Grimes Edna O'Brien_Lino Lang The Golden Apples of the Sun genre: Suspense/Thriller_35.60537296772719_1.3212945_11
+116_Oliva Carroll Postern of Fate_Monroe Gislason Time To Murder And Create genre: Historical fiction_88.05535310669707_3.762226_21
+117_Georgeann Keebler The Yellow Meads of Asphodel_Miss Maximina O'Reilly I Sing the Body Electric genre: Horror_44.814460553166256_4.1695495_23
+118_Mrs. Carol Wintheiser The Violent Bear It Away_Agueda Carroll What's Become of Waring genre: Fantasy_15.72563972857388_4.313602_17
+119_Clifton Halvorson Blithe Spirit_Elden Satterfield Arms and the Man genre: Metafiction_73.82955464300596_2.671246_37
+120_Geraldine Runolfsson Now Sleeps the Crimson Petal_Edda Barton Shall not Perish genre: Legend_80.63570712926196_2.281659_23
+121_Mabel Donnelly III Dance Dance Dance_Despina Jast Of Mice and Men genre: Fable_26.258359363726477_3.9194791_20
+122_Jeremiah Mohr Cabbages and Kings_Neely Hagenes Unweaving the Rainbow genre: Biography/Autobiography_59.00125690320306_3.5412817_12
+123_Bong Balistreri The Wives of Bath_Haywood O'Connell The Painted Veil genre: Fairy tale_71.10109083739593_1.9213126_37
+124_Miki Kiehn For a Breath I Tarry_Lonny Effertz A Summer Bird-Cage genre: Fiction in verse_57.54197792644357_2.2797132_30
+125_Gracia Robel Things Fall Apart_Dr. Zita Conroy The Wives of Bath genre: Fanfiction_104.10142154207058_2.4960232_10
+126_Gayla Fahey Far From the Madding Crowd_Junior Harvey Number the Stars genre: Humor_57.64833861807457_1.2195193_37
+127_Soledad Macejkovic When the Green Woods Laugh_Blanch Kertzmann Antic Hay genre: Narrative nonfiction_108.76150458087768_2.6865208_12
+128_Ms. Long Cruickshank Recalled to Life_Josiah Wolf The Glory and the Dream genre: Fanfiction_98.1701274321959_3.1054044_16
+129_Mrs. Lauri Daugherty A Farewell to Arms_Lenard Roob MD Fair Stood the Wind for France genre: Short story_99.36381987343204_3.581239_39
+130_Rosalina Kovacek Such, Such Were the Joys_Ranee Huels IV The Heart Is Deceitful Above All Things genre: Tall tale_73.89398453973456_2.7656074_33
+131_Cleo Mann Quo Vadis_Candice Runolfsdottir III Far From the Madding Crowd genre: Mythopoeia_32.26152066046876_4.228841_37
+132_Melania Kris Nine Coaches Waiting_Sydney Nolan The Wings of the Dove genre: Short story_65.75155500313556_3.9695046_21
+133_Jennette Labadie The Way of All Flesh_Ms. Lee Hansen Mother Night genre: Legend_34.034467981737_1.1080115_11
+134_Alexandria Block The Moving Finger_Pat Shanahan Arms and the Man genre: Suspense/Thriller_36.35706888221625_3.7498431_32
+135_Dr. Rory Kirlin A Monstrous Regiment of Women_Britany Leffler The Golden Apples of the Sun genre: Suspense/Thriller_94.86441323566625_1.1433015_39
+136_Tyler Renner The Painted Veil_Miss Milan Reinger Many Waters genre: Science fiction_67.58565323029646_1.5633627_28
+137_Nannie Quigley Those Barren Leaves, Thrones, Dominations_Mr. Kristel Fadel The Daffodil Sky genre: Mythology_83.85110876454533_1.4768847_18
+138_Dr. Charlotte Marquardt O Jerusalem!_Luana Murazik Look Homeward, Angel genre: Suspense/Thriller_87.2319074265455_1.0376056_35
+139_Hiroko Cruickshank An Instant In The Wind_Lonnie Mohr The Daffodil Sky genre: Essay_48.35033406699382_4.2440605_19
+140_Miss Jenifer Pfeffer O Jerusalem!_Charlotte Corwin Everything is Illuminated genre: Speech_110.67955690963768_1.1921052_28
+141_Mack Emmerich DVM Down to a Sunless Sea_Marquis Bailey Noli Me Tangere genre: Realistic fiction_92.33156213658422_1.7738165_32
+142_Arlie Reinger Jr. Blithe Spirit_Bob Barrows No Country for Old Men genre: Fairy tale_97.00283605037214_1.714062_30
+143_Leonard Stanton Tiger! Tiger!_Jeanetta Schumm The Parliament of Man genre: Western_86.98078290910546_4.4486485_11
+144_Mrs. Trey Fritsch Infinite Jest_Ms. Terina Moore The Last Enemy genre: Fiction in verse_102.73100823471778_2.5846868_22
+145_Nathan Crooks An Instant In The Wind_Kelsi Mosciski Such, Such Were the Joys genre: Fiction in verse_40.25475510894319_3.6015198_21
+146_Mr. Alberto Deckow Jesting Pilate_Johnie McGlynn DVM Look Homeward, Angel genre: Biography/Autobiography_81.04946204716519_2.252802_27
+147_Emilio Dickens I Cabbages and Kings_Joi Wolff II A Time to Kill genre: Classic_47.955018796702504_4.181259_35
+148_Refugio Wehner The Lathe of Heaven_Normand Kassulke The Wealth of Nations genre: Mythology_69.58166841698024_2.4846787_30
+149_Benny Murazik The House of Mirth_Ermelinda Roob To Sail Beyond the Sunset genre: Narrative nonfiction_16.450283394914187_3.5472243_26
+150_Eldon Doyle In Dubious Battle_Von Lesch What's Become of Waring genre: Fable_90.88120559668285_4.518615_28
+151_Rosie Gorczany MD Paths of Glory_Leeanna Mills Sleep the Brave genre: Short story_102.93789055006889_1.9136167_36
+152_Donny Veum Endless Night_Daron Jenkins Consider the Lilies genre: Folklore_40.83454709692342_4.442079_20
+153_Alana Watsica The Last Temptation_Carlton Kunde III Let Us Now Praise Famous Men genre: Science fiction_71.79042157406113_3.0948374_38
+154_Leeann Olson To Say Nothing of the Dog_Jarod Cummerata A Confederacy of Dunces genre: Fantasy_100.49371691537151_2.6985233_24
+155_Despina Braun The Proper Study_Miss Daniela Bartoletti From Here to Eternity genre: Textbook_40.96120191070157_2.9346051_25
+156_Barbra Reynolds Have His Carcase_Jessie Dooley The Other Side of Silence genre: Reference book_95.27077622488204_1.9178404_17
+157_Nova Morar V Recalled to Life_Sally Stroman Mother Night genre: Short story_58.68867856106669_2.9496455_21
+158_Shantay Connelly Mother Night_Ayesha Strosin Look Homeward, Angel genre: Mythology_65.4686009187341_4.134095_13
+159_Mr. Lajuana Sanford The Golden Bowl_Fiona Von The World, the Flesh and the Devil genre: Biography/Autobiography_43.098401752581005_3.2875073_16
+160_Crysta Witting The Millstone_Josefine Boyer V This Side of Paradise genre: Comic/Graphic Novel_57.017164279566344_3.879215_33
+161_Anh Bartoletti This Side of Paradise_Yuonne Hessel III Sleep the Brave genre: Short story_63.19412562046895_1.2788523_14
+162_Branden Glover Fair Stood the Wind for France_Yi Kuhlman Look Homeward, Angel genre: Suspense/Thriller_98.94184259599663_1.2819664_32
+163_Troy Dibbert III Dulce et Decorum Est_Lenny Bayer The Doors of Perception genre: Mythopoeia_83.7850223348178_2.0363462_38
+164_Willard Wunsch PhD Arms and the Man_Leonida Rice Dying of the Light genre: Fanfiction_92.10754948197554_2.5054266_30
+165_Homer Reichert DDS Things Fall Apart_Ty Jacobson As I Lay Dying genre: Short story_25.930866537329376_2.2814054_12
+166_Deangelo Ernser For a Breath I Tarry_Lyle Schaden Infinite Jest genre: Realistic fiction_84.44517325271336_3.6584034_34
+167_Shera Lang This Lime Tree Bower_Leland O'Connell PhD The Daffodil Sky genre: Mythopoeia_62.504975424276175_3.620489_28
+168_Marjorie Stark East of Eden_Shawana Larson Quo Vadis genre: Realistic fiction_73.14726395014914_4.4395795_35
+169_Myrle Ankunding An Instant In The Wind_Daniell Dickens Things Fall Apart genre: Reference book_21.667222970995155_4.7857194_14
+170_Antonia Klocko The Wealth of Nations_Mrs. Denisha Kemmer Behold the Man genre: Comic/Graphic Novel_30.878594698327_3.627653_23
+171_Damon Stehr Dance Dance Dance_Chase Prohaska A Catskill Eagle genre: Classic_72.7854336426731_1.0293213_34
+172_Drew Nicolas The Little Foxes_Miss Edmundo Parker Alone on a Wide, Wide Sea genre: Narrative nonfiction_57.23149093279092_4.214122_28
+173_Lorena Runolfsson The Torment of Others_Geoffrey Schaden Let Us Now Praise Famous Men genre: Folklore_25.209316022245563_4.2340603_25
+174_Sebastian Abbott Shall not Perish_Britany Hegmann II Bury My Heart at Wounded Knee genre: Legend_69.50111414200842_4.272722_33
+175_Tim Hauck DVM Behold the Man_Cortez Gerhold PhD Tirra Lirra by the River genre: Legend_53.040732024009195_1.8764635_10
+176_Merissa Baumbach An Acceptable Time_Von Kemmer Have His Carcase genre: Essay_59.08463739317333_3.0435975_20
+177_Britteny Haag To Say Nothing of the Dog_Mr. Chris Dare O Jerusalem! genre: Comic/Graphic Novel_33.598931348333366_1.447515_20
+178_Arvilla Toy Nine Coaches Waiting_Wilfred Kemmer This Lime Tree Bower genre: Historical fiction_96.83069033107995_1.3411422_38
+179_Clarisa Johnson The Way of All Flesh_Dr. Javier Bashirian Things Fall Apart genre: Biography/Autobiography_35.778313888748116_1.1756496_33
+180_Hermelinda Christiansen Jr. Many Waters_Miss Ron Reichel Little Hands Clapping genre: Essay_97.57935529236191_4.119808_32
+181_Clemente Aufderhar As I Lay Dying_Erma Heidenreich Things Fall Apart genre: Classic_41.255633268103736_3.9756148_18
+182_Edris Bartoletti Brandy of the Damned_Irene Schamberger Little Hands Clapping genre: Western_80.72330082024978_4.387185_27
+183_Johnetta Nikolaus Some Buried Caesar_Chang Jerde Nine Coaches Waiting genre: Science fiction_18.027473541010806_4.7180505_35
+184_Mrs. Vicenta Jerde Blood's a Rover_Dr. Genevieve Graham Mr Standfast genre: Reference book_49.36012312122102_2.8609297_25
+185_Lacy Robel Now Sleeps the Crimson Petal_Harry Cummings Fear and Trembling genre: Fanfiction_75.73835613487557_2.6198583_25
+186_Porsche Barrows Dying of the Light_Norma Thiel A Catskill Eagle genre: Tall tale_69.6549201374494_4.7358804_30
+187_Nigel Herzog An Acceptable Time_Arlean Roob Vile Bodies genre: Classic_16.57425520387341_1.4234788_17
+188_Dr. Barton Klein Blithe Spirit_Dion Corkery A Confederacy of Dunces genre: Narrative nonfiction_58.23780052940718_1.2575257_17
+189_Elana Braun Those Barren Leaves, Thrones, Dominations_Fletcher Ward The Other Side of Silence genre: Metafiction_97.21175244721873_2.8805122_32
+190_Lauren Lemke The Mermaids Singing_Xavier Reinger The Grapes of Wrath genre: Humor_77.35912351907595_1.7731265_35
+191_Danilo Runolfsson Blithe Spirit_Jonathon Hackett Precious Bane genre: Fairy tale_46.683521408769195_3.885566_17
+192_Aisha Wehner III To a God Unknown_Stormy Goodwin Recalled to Life genre: Metafiction_23.33795355014839_1.5248083_15
+193_Jack Durgan The Wealth of Nations_Marva Miller The Heart Is Deceitful Above All Things genre: Narrative nonfiction_44.487822028737256_4.611243_14
+194_Mrs. Isaac Stark From Here to Eternity_Danial Stiedemann The Mermaids Singing genre: Mythopoeia_56.4769278082091_4.320059_27
+195_Margie Turcotte Lilies of the Field_Terrance Cormier Beyond the Mexique Bay genre: Tall tale_72.46192113927711_3.5536633_25
+196_Dale Osinski Consider Phlebas_Mr. Rosalie Okuneva Nine Coaches Waiting genre: Fiction narrative_22.67711426971146_3.7119043_11
+197_Renda Feeney The Moving Finger_Alanna Adams Bury My Heart at Wounded Knee genre: Tall tale_74.67341111833053_1.0762783_13
+198_Tyrone Farrell The Curious Incident of the Dog in the Night-Time_Scarlet Brekke Down to a Sunless Sea genre: Comic/Graphic Novel_25.75440368807541_2.478768_29
+199_Florencio Satterfield V Vile Bodies_Joesph Nienow IV The World, the Flesh and the Devil genre: Crime/Detective_20.86304487981195_4.59187_28
+200_Kala Nolan Eyeless in Gaza_Jung O'Hara Vanity Fair genre: Fable_21.907617970292847_4.735289_31
+201_Nathanial Orn The Golden Bowl_Blanch Lesch The Golden Bowl genre: Historical fiction_91.989444782571_2.889958_20
+202_Al Denesik O Pioneers!_Mrs. Eugene Sporer The Way of All Flesh genre: Classic_75.57747460444992_1.3403572_16
+203_Winter Halvorson Behold the Man_Dr. Burt Hettinger Surprised by Joy genre: Western_29.558816904480167_4.42825_29
+204_Melia Murazik Rosemary Sutcliff_Miss Rona Jacobs A Glass of Blessings genre: Classic_70.4129577416405_4.4949546_27
+205_Lynette Runte Vanity Fair_Sanford Hodkiewicz The Monkey's Raincoat genre: Fiction in verse_94.23776534476937_2.978688_15
+206_Timika Block To Sail Beyond the Sunset_Kelly Streich III The Last Enemy genre: Crime/Detective_46.26224245142913_1.3252342_33
+207_Alycia Spencer Beneath the Bleeding_German Rippin Noli Me Tangere genre: Fable_111.49875425020788_3.3549585_39
+208_Nicolas Dooley The Other Side of Silence_Ms. Jeanett Smith Time of our Darkness genre: Tall tale_98.75216281520835_4.298295_16
+209_Myles Jacobson A Scanner Darkly_Soila Bechtelar As I Lay Dying genre: Short story_82.67677019593388_1.7404706_36
+210_Lorri O'Connell V The Daffodil Sky_Shannon Bernier IV I Will Fear No Evil genre: Metafiction_52.523091730675176_4.679446_32
+211_Mr. Rod Block The Monkey's Raincoat_Daisey Green Sr. O Jerusalem! genre: Mythology_65.95138656219993_2.2626457_22
+212_Graham Schimmel Sleep the Brave_Miss Rosaline Hermiston The Mirror Crack'd from Side to Side genre: Fairy tale_102.6429270071046_1.7580827_37
+213_Brent Boyle The Curious Incident of the Dog in the Night-Time_Theda Cole Dulce et Decorum Est genre: Essay_82.72703217111943_2.9873343_28
+214_Elliot Lemke No Country for Old Men_Val Bosco After Many a Summer Dies the Swan genre: Western_15.919697112836705_3.7797627_37
+215_Emiko Jerde East of Eden_Donna Schmeler MD That Hideous Strength genre: Mythology_47.169857536995295_2.6901758_17
+216_Nakia Heathcote Great Work of Time_Jamaal Schmeler What's Become of Waring genre: Horror_29.23977609616648_4.6473274_29
+217_Dr. Lauren Balistreri O Pioneers!_Merissa Mayer No Highway genre: Fiction in verse_108.9633883707727_3.0411494_18
+218_Celestina Orn Noli Me Tangere_Alisha Brown The Violent Bear It Away genre: Science fiction_64.83800887034641_4.4041257_18
+219_Morgan Roob Great Work of Time_Alvina O'Kon The Needle's Eye genre: Metafiction_17.546271149682376_4.843341_38
+220_Salome Stamm Recalled to Life_Dr. Clifford Schultz The Curious Incident of the Dog in the Night-Time genre: Western_71.40487166473068_3.8852131_36
+221_Gwenn Hegmann Blood's a Rover_Earl Hessel Surprised by Joy genre: Western_78.26003561671382_3.5134706_17
+222_Mrs. Tarah Willms The Skull Beneath the Skin_Oren Ondricka I Recalled to Life genre: Horror_68.68916154109502_4.002988_16
+223_Amie Rath The Mirror Crack'd from Side to Side_Salvador Wyman DDS The Sun Also Rises genre: Short story_62.217112529046965_3.083918_22
+224_Filiberto Hoppe The Torment of Others_Modesta Bernhard Nectar in a Sieve genre: Science fiction_24.98552112458293_2.8947132_29
+225_Mr. Dorsey Strosin Sleep the Brave_Michal Beier Behold the Man genre: Classic_29.740380948172948_2.835197_33
+226_Miss Cliff Kuhlman Shall not Perish_Mr. Landon Johns Let Us Now Praise Famous Men genre: Fairy tale_89.51419243420378_1.260971_12
+227_Erich Cartwright DDS Jacob Have I Loved_Dion Gleichner V Mother Night genre: Speech_26.554642534681967_4.613065_13
+228_Donovan Shields Time of our Darkness_Ernesto Stark Jacob Have I Loved genre: Mystery_72.80379386535733_1.0138865_24
+229_Ike Schinner Such, Such Were the Joys_Milton Morar The Wealth of Nations genre: Western_49.34353271682207_2.5120065_38
+230_Jackelyn Macejkovic The Mirror Crack'd from Side to Side_Nathaniel Bergnaum Endless Night genre: Fairy tale_60.06131174006733_2.8671718_34
+231_Ms. Nolan Schoen Sleep the Brave_Charline O'Conner Time To Murder And Create genre: Classic_56.82688846079735_1.670709_35
+232_Jarrod Harvey To Your Scattered Bodies Go_Nickie Runolfsson PhD The Heart Is Deceitful Above All Things genre: Essay_27.13014164147127_4.4592743_30
+233_Mrs. Phyliss Howe The Far-Distant Oxus_Barrett Jaskolski The Torment of Others genre: Suspense/Thriller_20.354480278671303_1.3666724_18
+234_Brooks Bogisich Jr. Jesting Pilate_Miss Marian Will This Lime Tree Bower genre: Mystery_32.65642430176307_4.4163666_29
+235_Dr. Hayden Strosin Arms and the Man_Lucas Murray III The Man Within genre: Fantasy_77.53145666126375_2.545248_31
+236_Tiara Wiegand I The Green Bay Tree_Hollis Goldner A Swiftly Tilting Planet genre: Suspense/Thriller_89.85424621992927_1.5312117_32
+237_Marty Mertz Beyond the Mexique Bay_Babara Stark This Side of Paradise genre: Fable_29.155169692830672_4.689524_11
+238_Hyman Mertz Unweaving the Rainbow_Shakita Brakus The Sun Also Rises genre: Classic_87.8164961607023_2.742255_20
+239_Horacio Wolff III Nectar in a Sieve_Suellen Koelpin The Heart Is Deceitful Above All Things genre: Suspense/Thriller_26.506090836026083_4.035518_35
+240_Aubrey Price Françoise Sagan_Mr. Rodrigo Schmidt Terrible Swift Sword genre: Fanfiction_76.3827669682388_1.3172832_25
+241_Mr. Patsy Kuhlman Carrion Comfort_Dr. Sheron O'Conner A Catskill Eagle genre: Essay_47.73881836084518_1.253477_24
+242_Wanda Wuckert Surprised by Joy_Delois Fahey MD A Farewell to Arms genre: Fiction narrative_45.55922703916528_2.7377975_13
+243_Luna Cummerata Dying of the Light_Cathern Sporer Little Hands Clapping genre: Fiction in verse_90.89151938696351_3.7296665_37
+244_Miss Anibal Bayer Bury My Heart at Wounded Knee_Irwin Dibbert Specimen Days genre: Textbook_95.48506857624092_1.0915489_33
+245_Vergie Marks Mr Standfast_Salvatore Kuhic As I Lay Dying genre: Fanfiction_91.18999619128412_3.5602016_24
+246_Lupe Stanton The Proper Study_Vilma Huels An Acceptable Time genre: Tall tale_85.74145962598868_4.846609_17
+247_Thomas Hermann By Grand Central Station I Sat Down and Wept_Sherwood Halvorson III Have His Carcase genre: Reference book_43.36983161362697_4.563198_37
+248_Antoine Morar If I Forget Thee Jerusalem_Johanne Corkery That Hideous Strength genre: Narrative nonfiction_82.87439384938428_4.923588_33
+249_Dr. Joey Herzog Cover Her Face_Susanna Gutkowski To Sail Beyond the Sunset genre: Narrative nonfiction_109.36814226530484_1.4691765_15
+250_Tonisha Gutmann Such, Such Were the Joys_Miss Gracia Morissette O Pioneers! genre: Science fiction_56.512589470580544_3.9132752_36
+251_Dorine Nolan Time of our Darkness_Quintin Schowalter MD Surprised by Joy genre: Mystery_68.82422868304783_4.591141_31
+252_Hung Mann Paths of Glory_Luciano Tromp A Handful of Dust genre: Humor_51.25335616757346_4.702792_23
+253_Miss Herbert Blick The Wind's Twelve Quarters_Deedra Konopelski The Mermaids Singing genre: Essay_17.442343714661522_2.521504_31
+254_Donnell Barton Where Angels Fear to Tread_Robin Sipes Nine Coaches Waiting genre: Mythopoeia_32.09824838900887_3.9593573_27
+255_Daryl Fahey Many Waters_Maurice Hegmann Tirra Lirra by the River genre: Narrative nonfiction_96.66371690900772_3.756917_28
+256_Ms. Krystin Cassin Time of our Darkness_Titus Boyer Things Fall Apart genre: Essay_43.869063753438056_2.8497746_15
+257_Jackie Kilback The Wings of the Dove_Fred Kris A Confederacy of Dunces genre: Metafiction_99.71035674246623_3.805538_13
+258_Marlen Gottlieb The Curious Incident of the Dog in the Night-Time_Dr. Irwin Weissnat For Whom the Bell Tolls genre: Humor_72.63329635116818_4.7057753_22
+259_Caron Gulgowski No Country for Old Men_Hans Stamm The Green Bay Tree genre: Textbook_113.52887969388739_4.6631703_39
+260_Nathanael Langworth PhD Endless Night_Julee Zemlak Butter In a Lordly Dish genre: Biography/Autobiography_62.31453710763611_3.4281337_20
+261_Mrs. Virgilio Mayer The Torment of Others_Del Beier Cabbages and Kings genre: Classic_35.29501182997528_4.1215315_11
+262_Donnie Barrows Recalled to Life_Tory Ondricka The Road Less Traveled genre: Suspense/Thriller_39.64220978189317_4.291144_11
+263_Brant Koelpin DVM The Curious Incident of the Dog in the Night-Time_Nikole McDermott Consider the Lilies genre: Fiction in verse_24.94263218787553_3.9474592_18
+264_Sonny Stark A Passage to India_Charlyn Schamberger The Painted Veil genre: Legend_82.37955940358195_1.1862509_20
+265_Miss Milda Jacobi Far From the Madding Crowd_Hai Ritchie A Many-Splendoured Thing genre: Realistic fiction_92.84629531814619_1.4876521_34
+266_Mr. Kandra Rogahn Ego Dominus Tuus_Noe Wintheiser The Wind's Twelve Quarters genre: Crime/Detective_31.01877802083361_4.639558_26
+267_Lanora Wintheiser It's a Battlefield_Lyla Watsica The Torment of Others genre: Historical fiction_62.69239568212761_4.8383694_37
+268_Christopher Heathcote In a Glass Darkly_Erinn Cummings A Summer Bird-Cage genre: Crime/Detective_74.19542416770773_4.2501807_36
+269_Glen Mitchell Sr. A Farewell to Arms_Alisia Feil If I Forget Thee Jerusalem genre: Fantasy_24.287577963821914_1.6898897_31
+270_Tracy Buckridge The Wind's Twelve Quarters_Mickey Larson Time of our Darkness genre: Mythology_18.98591087903769_1.3102262_26
+271_Essie Berge The Golden Bowl_Val Moore The Millstone genre: Tall tale_97.32789487087973_1.8152704_20
+272_Elwood Hamill The Golden Apples of the Sun_Landon Marquardt In Death Ground genre: Essay_104.73452812841836_3.7551148_16
+273_Lilian Bergstrom Great Work of Time_Erika Ratke Things Fall Apart genre: Realistic fiction_54.929563439022516_4.613521_28
+274_Shelby Will The Doors of Perception_Maddie Orn The Lathe of Heaven genre: Historical fiction_103.5203515870675_4.41525_28
+275_Fletcher Dibbert Where Angels Fear to Tread_Florentino Leuschke Frequent Hearses genre: Fantasy_112.13136912049517_3.0175884_23
+276_Emmitt Lesch Time To Murder And Create_Nathalie Little Mother Night genre: Narrative nonfiction_21.917116575215466_4.6442995_15
+277_Ms. Arcelia Champlin Look to Windward_Alva Howell To Your Scattered Bodies Go genre: Fiction in verse_18.93575723363604_4.5039606_16
+278_Carroll Funk Carrion Comfort_Thea DuBuque A Swiftly Tilting Planet genre: Speech_32.105900808258866_3.3207648_15
+279_Esmeralda Green Françoise Sagan_Marc Streich Time To Murder And Create genre: Short story_26.264653580808304_1.147122_24
+280_Gregorio O'Conner II A Handful of Dust_Dr. Marquetta Legros All Passion Spent genre: Legend_100.14389082205511_4.1806936_17
+281_Miss Fletcher Medhurst The World, the Flesh and the Devil_Clay McCullough III That Hideous Strength genre: Mythopoeia_25.158352736826657_2.089982_28
+282_Hana Torphy When the Green Woods Laugh_Miss Domenic Corwin Blue Remembered Earth genre: Mythology_84.43271661698526_3.3505583_22
+283_Sherril Zboncak Little Hands Clapping_Milo Corwin The House of Mirth genre: Classic_20.520288622912073_3.0795927_19
+284_Vaughn Abshire DVM A Many-Splendoured Thing_Mr. Derrick Stark In Dubious Battle genre: Short story_67.01464135656232_4.4080653_39
+285_Edith Beatty Mother Night_Gwyn Block Dulce et Decorum Est genre: Classic_58.77363482930002_4.6624484_37
+286_Merideth Jones Of Mice and Men_Maximo O'Reilly Recalled to Life genre: Metafiction_77.78916870039586_3.5901833_22
+287_Otto Stoltenberg A Summer Bird-Cage_Herb Schneider Brandy of the Damned genre: Speech_19.201397245287186_2.2492697_33
+288_Emmett Champlin Paths of Glory_Joshua Friesen A Handful of Dust genre: Tall tale_30.30941355659461_3.864622_33
+289_Dale Bins O Jerusalem!_Jack Stamm Gone with the Wind genre: Suspense/Thriller_28.931097540459557_4.7368464_15
+290_Flora Cronin Postern of Fate_Tommy Morissette The Skull Beneath the Skin genre: Crime/Detective_15.39657912202692_3.1434991_36
+291_Mrs. Bryon Dibbert Surprised by Joy_Ms. Nicky Gleichner Stranger in a Strange Land genre: Fiction narrative_16.127805428375282_2.0931685_25
+292_Rigoberto Willms That Hideous Strength_Hiroko Kerluke All the King's Men genre: Metafiction_83.00018239629233_4.2936883_39
+293_Damien Olson The Moving Toyshop_Sterling Leuschke A Many-Splendoured Thing genre: Humor_61.79070857073151_2.8380785_10
+294_Federico Fritsch Eyeless in Gaza_Gaylord Steuber To Sail Beyond the Sunset genre: Fiction narrative_75.81615858109853_2.8224769_24
+295_Nicholas Bayer Sr. The Daffodil Sky_Quinn Mann Fair Stood the Wind for France genre: Metafiction_101.61346595266608_1.4389803_19
+296_Phillip Weissnat Specimen Days_Ulysses Muller A Catskill Eagle genre: Fable_82.12733714403922_1.912337_20
+297_Joselyn Stiedemann From Here to Eternity_Bernie Haag III The Last Temptation genre: Biography/Autobiography_111.8578317267052_3.2311223_25
+298_Lonnie Kub For a Breath I Tarry_Kallie Harris A Confederacy of Dunces genre: Fairy tale_26.811291402351145_2.255005_31
+299_Min Barrows The Little Foxes_Jenae Parker The Glory and the Dream genre: Folklore_50.48295759858268_1.69354_25
+300_Petra Ullrich The Yellow Meads of Asphodel_Eugenio Hickle Dulce et Decorum Est genre: Realistic fiction_74.81680536185655_1.9902966_18
+301_Gabriela Ondricka Terrible Swift Sword_Mrs. Erik Leannon The Wealth of Nations genre: Science fiction_22.4355410588011_3.0813177_26
+302_Charlotte Kunze III The Green Bay Tree_Asa Russel To Say Nothing of the Dog genre: Mystery_41.67725503513121_2.774345_30
+303_Marco Torp To Say Nothing of the Dog_Diego Barrows IV By Grand Central Station I Sat Down and Wept genre: Reference book_68.79244242025877_3.0363047_21
+304_Miss Marybelle Gutkowski The Moving Toyshop_Aleida Klein Brandy of the Damned genre: Fanfiction_81.52989922239178_4.057863_29
+305_Jene Wolf Fame Is the Spur_Ardella Johnston Little Hands Clapping genre: Realistic fiction_108.29914460588054_3.5632057_11
+306_Minh Herzog The Moon by Night_Donn Abshire Carrion Comfort genre: Comic/Graphic Novel_100.0543852596737_2.2077959_23
+307_Wilford Pfannerstill Sr. Paths of Glory_Chrissy Predovic In Death Ground genre: Reference book_68.89317956573147_2.544965_26
+308_Rosena Littel The Painted Veil_Dalton Berge Look Homeward, Angel genre: Mystery_42.829522940778475_1.0029424_38
+309_Maris Gorczany II The Heart Is a Lonely Hunter_Mr. Carin Stiedemann Paths of Glory genre: Essay_60.357977671654226_3.8469977_16
+310_Ms. Eddy Harber Blithe Spirit_Donny Grant Vanity Fair genre: Mythopoeia_68.61956443908512_4.811017_36
+311_Wilbert Stokes Vile Bodies_Sanda Murray A Glass of Blessings genre: Suspense/Thriller_48.82326009326753_3.2779675_34
+312_Jude Hane Sleep the Brave_Sam Rau Great Work of Time genre: Fairy tale_91.51266427953058_2.633765_39
+313_Willard Roob The Curious Incident of the Dog in the Night-Time_Allen Lueilwitz Infinite Jest genre: Legend_83.10459616827062_3.6769042_34
+314_Mr. Homer King An Acceptable Time_Anette Upton The Curious Incident of the Dog in the Night-Time genre: Speech_79.80484516739111_4.0983853_12
+315_Nan Macejkovic A Confederacy of Dunces_Tracy Klocko Quo Vadis genre: Fiction narrative_92.73599656501847_1.8113894_32
+316_Candy Funk Those Barren Leaves, Thrones, Dominations_Juliette Hackett The Torment of Others genre: Classic_26.900589913030203_4.9752173_22
+317_Walter Jakubowski A Swiftly Tilting Planet_Milan Donnelly Down to a Sunless Sea genre: Narrative nonfiction_71.06173205896349_1.4157147_19
+318_Tula Ritchie No Highway_Doyle Mohr Mother Night genre: Legend_58.82091676870075_4.198654_16
+319_Rufina Metz His Dark Materials_Damien Blanda Many Waters genre: Textbook_84.17094771175265_2.5752528_18
+320_Danna Green DDS Eyeless in Gaza_Reynalda Schuster From Here to Eternity genre: Humor_42.39451183585754_4.6331387_28
+321_Salome Moen Infinite Jest_Daryl Beier Of Human Bondage genre: Fable_110.22246431065533_3.9651775_24
+322_Ruth Simonis Vile Bodies_Silas Bashirian The Last Temptation genre: Short story_90.7670339244684_2.6190932_25
+323_Martin Boyer Recalled to Life_Alfred Bergnaum MD Let Us Now Praise Famous Men genre: Legend_33.446290447854764_2.557032_36
+324_Angelia Kuhlman IV Alone on a Wide, Wide Sea_Delena Block Ring of Bright Water genre: Classic_91.09591348361174_3.0023417_39
+325_Basil Hessel The Waste Land_Merlin Nader The Moving Finger genre: Short story_54.639269309153406_2.8818758_24
+326_Angelica Cole Death Be Not Proud_Eldon Kovacek Those Barren Leaves, Thrones, Dominations genre: Suspense/Thriller_70.48792395256338_3.9301963_23
+327_Mr. Cher Corkery Tiger! Tiger!_Lorean Goyette Great Work of Time genre: Horror_64.29887691135723_3.5377574_25
+328_Ladawn Erdman The Soldier's Art_Vivienne Carter Surprised by Joy genre: Narrative nonfiction_67.3571721222662_1.9105207_39
+329_Maximo O'Reilly The Heart Is Deceitful Above All Things_Ms. Newton Hagenes The Way of All Flesh genre: Fiction narrative_76.85272236673788_1.2934636_37
+330_Tynisha Stanton DDS The Line of Beauty_Juliette Maggio The Curious Incident of the Dog in the Night-Time genre: Reference book_38.09211663687365_1.8869461_38
+331_Elliot Robel The Man Within_Colby Marvin Endless Night genre: Textbook_83.12097606062166_4.9987764_37
+332_Jaunita Luettgen DVM Cover Her Face_Valeri Botsford Jr. The Daffodil Sky genre: Crime/Detective_34.56942741995121_4.4816117_39
+333_Rickey Barton Of Human Bondage_Steven Corkery Sleep the Brave genre: Speech_23.760827930201074_2.8802738_31
+334_Elise Bauch Fear and Trembling_Shad Hayes Far From the Madding Crowd genre: Classic_72.67499966180605_4.881533_29
+335_Mrs. Terrell Kiehn The Mirror Crack'd from Side to Side_Adaline Reichert Nectar in a Sieve genre: Metafiction_66.74035446405185_1.1848906_37
+336_Sharan Weissnat The Man Within_Malorie Cassin The Moon by Night genre: Mystery_41.311170650299616_2.5685887_23
+337_Arnulfo Leannon The Way of All Flesh_Maribeth Olson An Instant In The Wind genre: Fantasy_26.815075602355705_1.2224687_10
+338_Mr. Leon Kilback By Grand Central Station I Sat Down and Wept_Elliot Schmitt The Line of Beauty genre: Metafiction_95.79388437716742_2.3763363_12
+339_Miss Gayle Corwin The Monkey's Raincoat_Casimira Kuvalis The Glory and the Dream genre: Mythology_51.66300225212843_2.532244_37
+340_Lina Moore Blue Remembered Earth_Milo Ankunding III Nectar in a Sieve genre: Classic_39.17232510487297_3.0470703_20
+341_Kasey Mann Tiger! Tiger!_Antione Yundt Fame Is the Spur genre: Suspense/Thriller_17.089471330977588_3.2230623_33
+342_Milan Pagac The Daffodil Sky_Miss Tommy Friesen The Little Foxes genre: Historical fiction_24.621184703221587_2.0948699_32
+343_Temika Feil III Blood's a Rover_Mack Windler The Lathe of Heaven genre: Narrative nonfiction_89.04548309408008_4.7669897_38
+344_Landon West The Millstone_Xuan Lockman Blue Remembered Earth genre: Science fiction_46.1350687758703_3.5775263_37
+345_Dane Schneider This Side of Paradise_Ruben Zieme Everything is Illuminated genre: Fiction in verse_81.80399448736112_4.102295_15
+346_Jeffery O'Hara The Wind's Twelve Quarters_Jack Price Time of our Darkness genre: Fairy tale_112.45580771981041_1.252316_19
+347_Mr. Weston Lowe The Heart Is Deceitful Above All Things_Fatimah Koepp Wildfire at Midnight genre: Short story_45.38652340012129_2.453425_10
+348_Carlton Jones Tender Is the Night_Dan Rogahn A Farewell to Arms genre: Reference book_89.33402612678384_2.135285_29
+349_Boris Hegmann Death Be Not Proud_Debbi Nicolas The Yellow Meads of Asphodel genre: Fairy tale_69.29403453064947_3.619004_13
+350_Mrs. Tomiko Nienow When the Green Woods Laugh_Jesusa Harvey The Torment of Others genre: Historical fiction_21.401677690011297_1.9861668_11
+351_Marcene Ratke Everything is Illuminated_Wilburn MacGyver Many Waters genre: Fantasy_79.0251212994985_3.6179333_12
+352_Cheri Cruickshank Waiting for the Barbarians_Nicola Paucek The Stars' Tennis Balls genre: Science fiction_110.33486388858661_1.6739296_31
+353_Miss Dennis O'Reilly Bury My Heart at Wounded Knee_Matt Pfannerstill When the Green Woods Laugh genre: Fiction in verse_104.2025532884849_1.7097808_15
+354_Sheila Friesen A Darkling Plain_Rena Konopelski Sr. The Moon by Night genre: Realistic fiction_88.52626993157146_1.4014001_25
+355_Leda Marvin To Your Scattered Bodies Go_Ramiro Hoeger I The Way Through the Woods genre: Horror_107.00512646274004_4.2977386_35
+356_Merrilee Collins Jr. Those Barren Leaves, Thrones, Dominations_Vida Spinka PhD Where Angels Fear to Tread genre: Mystery_24.761740970443853_3.729104_23
+357_Maurice Wilderman To a God Unknown_Hassan Treutel Butter In a Lordly Dish genre: Reference book_113.83185752816324_4.646872_38
+358_Kareen Heidenreich Terrible Swift Sword_Erna Feil The Waste Land genre: Classic_72.69095017530128_4.2735276_15
+359_Burl Donnelly A Confederacy of Dunces_Ernesto Batz The Road Less Traveled genre: Classic_95.71385195838872_2.4611204_26
+360_Monnie Cruickshank The Painted Veil_Sidney Emmerich DVM The Parliament of Man genre: Mythology_96.17044452369653_4.58613_28
+361_Marquerite Rolfson From Here to Eternity_Ligia Heathcote His Dark Materials genre: Mystery_90.12701403024413_2.1009297_37
+362_Arthur Kiehn Recalled to Life_Tanner Schmidt A Summer Bird-Cage genre: Fantasy_104.49876307594134_1.4567554_13
+363_Garnett Fadel Ego Dominus Tuus_Miss Catina Cole In Death Ground genre: Realistic fiction_61.92500638392916_1.7184042_25
+364_Kayce Mayer For Whom the Bell Tolls_Raleigh Anderson Wildfire at Midnight genre: Legend_111.50551215526201_2.8262637_13
+365_Kieth Ledner Endless Night_Mitch Crist A Swiftly Tilting Planet genre: Metafiction_19.673153922996875_1.1548753_10
+366_Dr. Hai Braun In Death Ground_Linnea Bode Ego Dominus Tuus genre: Speech_106.43428408283461_1.4234055_14
+367_Luciano Dooley I Sing the Body Electric_Debrah Rogahn Recalled to Life genre: Western_58.47381473705158_4.590697_34
+368_Floyd Upton V The Soldier's Art_Deandrea Gaylord Sr. Pale Kings and Princes genre: Legend_32.29594093189297_1.632809_28
+369_Rafael O'Hara Consider the Lilies_Darron MacGyver The House of Mirth genre: Historical fiction_106.37396511326568_1.350301_39
+370_Santiago Schaden All the King's Men_Letty Hartmann The Wind's Twelve Quarters genre: Classic_104.27400351645693_4.114649_31
+371_Aline Kris Unweaving the Rainbow_Alishia Friesen A Monstrous Regiment of Women genre: Historical fiction_40.76492344969409_2.8259878_26
+372_Mervin Wolf The Far-Distant Oxus_Miss Lynwood Dietrich Clouds of Witness genre: Folklore_41.93561650105093_3.1797273_21
+373_Shirl Stiedemann An Instant In The Wind_Priscila Schinner Eyeless in Gaza genre: Crime/Detective_88.13892335553672_1.2579831_18
+374_Deon Wisoky Cover Her Face_Cheri Nolan Beyond the Mexique Bay genre: Narrative nonfiction_114.22465308827981_1.4115127_23
+375_Alaine Powlowski Postern of Fate_Ranae Tremblay Consider Phlebas genre: Metafiction_66.66127706153196_2.3498976_37
+376_Danilo Ruecker The Far-Distant Oxus_Nathan Batz Oh! To be in England genre: Comic/Graphic Novel_114.96088503044352_1.7417763_37
+377_Barney Gottlieb Recalled to Life_Luther Pfannerstill That Hideous Strength genre: Comic/Graphic Novel_109.94194644144805_1.84924_39
+378_Keitha Runolfsson Cover Her Face_Tempie Osinski II O Pioneers! genre: Crime/Detective_63.000786585686484_1.0390298_10
+379_Sheri Hilll Precious Bane_Miss Collin Abbott Cabbages and Kings genre: Fiction in verse_73.02486448147354_4.911011_17
+380_Bo Willms To Sail Beyond the Sunset_Pok Kertzmann V Such, Such Were the Joys genre: Narrative nonfiction_99.17919122196191_2.8566246_23
+381_Mr. Carla Walker Blithe Spirit_Bobbye Davis A Passage to India genre: Narrative nonfiction_61.0242436922766_3.1050282_23
+382_Abel Daniel An Instant In The Wind_Humberto Reilly IV The Wealth of Nations genre: Reference book_80.18178951085443_4.5952964_33
+383_Billie Hoppe I The Moon by Night_Kyla Boehm The Yellow Meads of Asphodel genre: Fantasy_97.27783964797737_3.3283865_27
+384_Mrs. Leone Beier Number the Stars_Carroll Pagac IV The Wealth of Nations genre: Fanfiction_25.819028466527016_3.9357917_31
+385_Armando Hermiston PhD A Summer Bird-Cage_Mr. Marg O'Keefe The World, the Flesh and the Devil genre: Short story_113.799411325526_1.8348186_15
+386_Noah Nitzsche V A Handful of Dust_Florrie Cassin Some Buried Caesar genre: Mythology_93.69248698589017_1.6511239_13
+387_Elton Littel Specimen Days_Mrs. Madelene Swift Sleep the Brave genre: Fiction narrative_71.82524220857674_4.47149_12
+388_Cedrick Gutmann Beyond the Mexique Bay_Ms. Rolland Pacocha Such, Such Were the Joys genre: Science fiction_46.562955862547156_3.1626718_30
+389_Tequila Schmitt The Skull Beneath the Skin_Elenora Kuvalis I Know Why the Caged Bird Sings genre: Fairy tale_16.17885524948782_2.5874572_16
+390_Santa Harber The Golden Apples of the Sun_Ross Grady To Say Nothing of the Dog genre: Fanfiction_60.13032484109093_2.4948654_12
+391_Homer Cruickshank PhD The Moon by Night_Mr. Jae Hackett The Waste Land genre: Horror_113.02811335521827_1.700462_16
+392_Jimmy Emmerich The Other Side of Silence_Clark Ziemann An Acceptable Time genre: Tall tale_39.39170216885969_2.3323016_34
+393_Ms. Buford Hermann Waiting for the Barbarians_Mr. Bridgett Hamill Blue Remembered Earth genre: Fanfiction_87.57088474382896_1.8213671_34
+394_Ramiro Schmitt Blood's a Rover_Dr. Salena Legros The Wealth of Nations genre: Narrative nonfiction_71.91607162676459_2.1009095_27
+395_Leila Kessler Terrible Swift Sword_Dr. Darren Schamberger Great Work of Time genre: Metafiction_54.63854353008546_4.467277_39
+396_Raquel Aufderhar Rosemary Sutcliff_Casey Wiza Look to Windward genre: Fairy tale_27.60893673509603_3.4789448_26
+397_Amal Cummings DVM A Monstrous Regiment of Women_Dr. Sharolyn Nienow Bury My Heart at Wounded Knee genre: Speech_51.716887136660304_2.1616085_21
+398_Melba DuBuque II Stranger in a Strange Land_Dr. Emile Koss Of Human Bondage genre: Comic/Graphic Novel_102.8738864426376_3.2792385_28
+399_Cliff Sawayn A Swiftly Tilting Planet_Glady Quigley A Darkling Plain genre: Humor_38.2057879419889_1.1260098_15
+400_Nellie Hackett Jr. That Hideous Strength_Tierra Erdman Wildfire at Midnight genre: Short story_18.232587725176963_4.7039666_11
+401_Clint Swift Nine Coaches Waiting_Erma Lindgren Taming a Sea Horse genre: Metafiction_106.8132241071526_2.6064658_21
+402_Paige Brown Mr Standfast_Rosario Daugherty Cover Her Face genre: Biography/Autobiography_82.85047558693098_3.7173555_22
+403_Hayden Jacobson The World, the Flesh and the Devil_Miss Vicky Rath Dying of the Light genre: Science fiction_69.93526920380849_1.7230909_31
+404_Quinton Bartell O Pioneers!_Wanita Glover The Curious Incident of the Dog in the Night-Time genre: Fable_87.1300129730701_1.5578804_30
+405_Gala Mills No Highway_Brice Leffler A Farewell to Arms genre: Humor_85.02760597586656_3.9563892_24
+406_Ed Emmerich Eyeless in Gaza_Dillon Prosacco Dying of the Light genre: Mythopoeia_30.362000555960265_1.7547891_15
+407_Laurence Padberg Frequent Hearses_Codi Monahan Moab Is My Washpot genre: Textbook_84.82993321746685_4.6360726_16
+408_Janina Deckow MD Some Buried Caesar_Mrs. Elisha Vandervort His Dark Materials genre: Science fiction_18.840790667175987_4.646856_31
+409_Garret Watsica PhD Mr Standfast_Hal Miller Frequent Hearses genre: Folklore_89.55383987335964_2.523276_16
+410_Ms. Kum Murphy Dulce et Decorum Est_Mr. Marth Crooks A Time of Gifts genre: Horror_20.011271234510684_3.2342932_14
+411_Maris Schumm The Parliament of Man_Jeni Doyle Jesting Pilate genre: Comic/Graphic Novel_24.66606896716593_2.4020982_39
+412_Neda Brown Gone with the Wind_August Bergnaum A Farewell to Arms genre: Mythopoeia_48.97221395658355_3.825381_35
+413_Louis Ullrich Wildfire at Midnight_Margie Sipes A Swiftly Tilting Planet genre: Speech_17.759081036774536_3.338228_31
+414_Chanelle Braun The Moon by Night_Dr. Bernardo Stoltenberg If I Forget Thee Jerusalem genre: Reference book_18.546711708985672_4.6527634_17
+415_Pete Harvey DDS The Heart Is Deceitful Above All Things_Wyatt Connelly The Waste Land genre: Fanfiction_36.45341516958932_3.9249148_12
+416_Jayna Langworth That Good Night_Lacresha Purdy Consider the Lilies genre: Suspense/Thriller_56.36907035426599_4.403181_10
+417_Vonda Weimann Nine Coaches Waiting_Prince Renner In Dubious Battle genre: Suspense/Thriller_83.7627545914813_2.6110842_33
+418_Dr. Venice Schulist The Waste Land_Anderson Murray As I Lay Dying genre: Textbook_89.93844170537072_2.0887983_33
+419_Val Cummings III The Grapes of Wrath_Lela Christiansen Things Fall Apart genre: Textbook_32.50192133311328_2.4719281_17
+420_Jamey Nicolas I Blue Remembered Earth_Ms. Garrett Mitchell Endless Night genre: Science fiction_110.95061479190208_3.2358983_37
+421_Kendrick Borer A Handful of Dust_Morgan Willms Mr Standfast genre: Essay_42.94660357515156_4.105179_34
+422_Ms. Burl Crist The Way of All Flesh_Dr. Rusty Kilback Things Fall Apart genre: Tall tale_45.72575450644956_3.012744_10
+423_Harley Sporer I Such, Such Were the Joys_Cory Harber Where Angels Fear to Tread genre: Western_22.065321949062465_1.4704568_12
+424_Mrs. Laveta Kuhic Such, Such Were the Joys_Estella Tromp Surprised by Joy genre: Textbook_101.17411430255713_2.385448_17
+425_Efren Bayer Lilies of the Field_Jasper Schuster Mother Night genre: Fantasy_94.43036293634248_1.3759333_15
+426_Kasey Ratke Oh! To be in England_Ora Schaden Carrion Comfort genre: Science fiction_102.14417908862804_3.088957_36
+427_Jeff Jenkins Shall not Perish_Elijah Rippin That Good Night genre: Textbook_27.754244929647495_3.0849948_29
+428_Miesha Mante Dance Dance Dance_Carri Sipes The Painted Veil genre: Fantasy_42.52570521166826_3.22737_37
+429_Thanh Cormier The Stars' Tennis Balls_Russel Emmerich DDS Lilies of the Field genre: Mythopoeia_95.45777453115306_1.4820487_23
+430_Valery Grady Far From the Madding Crowd_Miss Lonnie Stokes An Evil Cradling genre: Essay_100.16919013816407_4.458939_36
+431_Ted Mohr Ego Dominus Tuus_Rudy Kuhic III The Moving Toyshop genre: Biography/Autobiography_37.50923982521251_3.9049528_29
+432_Miss Alphonso Jerde The Golden Apples of the Sun_Ms. Dianna Shanahan No Longer at Ease genre: Humor_105.25573027688664_4.4488983_19
+433_Charlsie Collier Ego Dominus Tuus_Modesto Kirlin Number the Stars genre: Fiction narrative_63.922806331209934_1.8132166_33
+434_Dr. Sudie Toy Blood's a Rover_Gil Carter A Handful of Dust genre: Horror_48.617572907233786_3.7478933_18
+435_Amado Corkery Edna O'Brien_Glynis Bins I A Glass of Blessings genre: Classic_114.89683607454661_3.7949996_32
+436_Reatha Botsford To a God Unknown_Lauran Schuster Edna O'Brien genre: Textbook_95.767121046136_3.322886_18
+437_Rafael Weissnat The Stars' Tennis Balls_Shyla Schmeler Blithe Spirit genre: Realistic fiction_71.92609763018015_4.0884275_21
+438_Theo O'Kon The Line of Beauty_Delana Harris The Stars' Tennis Balls genre: Biography/Autobiography_63.826350283490285_3.1661646_12
+439_Alanna Armstrong The Green Bay Tree_Barrie Treutel V Antic Hay genre: Fantasy_96.83929112793031_2.057787_16
+440_Blaine Hegmann Consider Phlebas_Horacio Ryan Such, Such Were the Joys genre: Comic/Graphic Novel_81.63181940539681_2.9591172_13
+441_Mary Kilback Edna O'Brien_Minda Yost No Highway genre: Essay_44.28677778082941_2.364111_35
+442_Mr. Renaldo Heidenreich To a God Unknown_Forest Gottlieb Where Angels Fear to Tread genre: Mystery_102.18304144294254_4.580929_25
+443_Mrs. Ja McDermott Of Human Bondage_Davis Pollich To Say Nothing of the Dog genre: Crime/Detective_48.61146059429833_1.5314913_30
+444_Dante Kerluke Lilies of the Field_Romona Roob I Have His Carcase genre: Comic/Graphic Novel_65.15158904520632_2.9259567_25
+445_Ms. Rosendo Howe I Will Fear No Evil_Leopoldo Ernser A Catskill Eagle genre: Reference book_71.34500023823853_3.051493_23
+446_Brigida Wyman Look Homeward, Angel_Hung McClure I Brandy of the Damned genre: Western_113.90999553682397_2.3124025_39
+447_Junie Green DVM The Glory and the Dream_Federico Jerde Death Be Not Proud genre: Essay_21.03577205668384_2.0922666_21
+448_Tonita Sanford Eyeless in Gaza_Tajuana Lehner Wildfire at Midnight genre: Mythopoeia_84.69603418184407_4.701682_39
+449_Michelina Bednar The Torment of Others_Elijah White The Mirror Crack'd from Side to Side genre: Speech_25.175690628918577_4.4777217_14
+450_Dr. Gaston Herman A Summer Bird-Cage_King Kautzer The Mermaids Singing genre: Classic_88.009408001333_3.6627548_21
+451_Jude Effertz Dying of the Light_Viviana Cassin I The Way Through the Woods genre: Folklore_64.27902214601747_4.254358_37
+452_Vannessa Ledner The Golden Apples of the Sun_Mr. Ezekiel Gutkowski The Soldier's Art genre: Reference book_56.74199431811424_4.856261_27
+453_Michiko Jacobi PhD Consider the Lilies_Alana O'Keefe The Heart Is a Lonely Hunter genre: Fiction narrative_32.49410485847941_1.4354627_34
+454_Marya Larkin I Mr Standfast_Annetta Lang When the Green Woods Laugh genre: Suspense/Thriller_109.15452730609026_4.814803_35
+455_Emory Frami The Far-Distant Oxus_Kathrin Prohaska His Dark Materials genre: Narrative nonfiction_96.5023090763729_1.1582801_35
+456_David Murphy I Sing the Body Electric_Normand Langworth The Heart Is Deceitful Above All Things genre: Biography/Autobiography_64.6049540677734_1.6807284_18
+457_Jamie Ernser I Many Waters_Dr. Ka Collier Mother Night genre: Short story_106.069048469165_2.4508157_18
+458_Iva Prohaska Paths of Glory_Marty O'Connell DVM A Farewell to Arms genre: Reference book_107.56649329263652_1.741487_25
+459_Del Kuhn DDS The Other Side of Silence_Simonne Jenkins IV The Glory and the Dream genre: Crime/Detective_103.83814771729453_1.2101237_14
+460_Albert Dach Let Us Now Praise Famous Men_Melida Fadel Fame Is the Spur genre: Mythopoeia_52.29441595515309_1.1727462_29
+461_Ms. Randell Considine An Acceptable Time_Breanne Halvorson Butter In a Lordly Dish genre: Speech_69.36966095486832_2.159578_19
+462_Branden Pfeffer The Mermaids Singing_Mr. Agnus Ledner A Time of Gifts genre: Narrative nonfiction_52.54515509364865_1.1460133_28
+463_Anastacia Bergnaum No Highway_Ronny Kshlerin II Jacob Have I Loved genre: Historical fiction_60.76635911501356_1.9827038_20
+464_Mrs. Angel Ferry For Whom the Bell Tolls_Trevor Bayer Let Us Now Praise Famous Men genre: Mythopoeia_93.74170565653701_3.8533044_24
+465_Lawerence Goodwin DVM A Many-Splendoured Thing_Jae Wiza Sr. All Passion Spent genre: Fiction narrative_26.456904475254923_2.2170172_17
+466_Genie Predovic A Passage to India_See Powlowski The Proper Study genre: Metafiction_19.32607461503367_3.2064817_36
+467_Adelaide Homenick A Swiftly Tilting Planet_Rodolfo Durgan Consider the Lilies genre: Essay_106.93309989678853_4.7119303_29
+468_Dr. Jone Hessel Tirra Lirra by the River_Sherill VonRueden I Waiting for the Barbarians genre: Legend_78.84000955090522_4.83096_16
+469_Kennith Hackett The Millstone_Mrs. Elease Aufderhar Endless Night genre: Essay_30.79100543820382_1.5764825_35
+470_Emery Reilly Jacob Have I Loved_Jonah Botsford Vile Bodies genre: Biography/Autobiography_47.31489610956528_4.027697_11
