@@ -1,0 +1,70 @@
+package edu.hillel;
+
+import java.util.Scanner;
+
+import edu.hillel.repository.ItemRepository;
+import edu.hillel.repository.ItemRepositoryInMemoryImpl;
+import edu.hillel.repository.UserRepository;
+import edu.hillel.repository.UserRepositoryInMemoryImpl;
+import edu.hillel.service.CartService;
+import edu.hillel.service.ItemService;
+import edu.hillel.service.UserService;
+
+public class App {
+    static Scanner scanner = new Scanner(System.in);
+
+    static UserRepository userRepository = new UserRepositoryInMemoryImpl();
+    static UserService userService = new UserService(userRepository);
+
+    static ItemRepository itemRepository = ItemRepositoryInMemoryImpl.getSingeltonInstance();
+    static ItemService itemService = ItemService.getSingeltonInstance(itemRepository);
+
+    static CartService cartService = new CartService(itemRepository);
+
+    public static void main(String[] args) {
+
+        while (true) {
+            if (UserService.loggedInUser == null) {
+                System.out.println("Please enter your email:");
+                String email = scanner.nextLine();
+                System.out.println("Please enter your password:");
+                String password = scanner.nextLine();
+                userService.logIn(email, password);
+            } else {
+                System.out.println(
+                    "Choose option:\n" +
+                        "your cart: " + cartService.getCartContent() + " total amount: " + cartService.getTotalCartAmount());
+                System.out.println(
+                    "1. add item to the cart\n" +
+                        "2. make order for selected items\n" +
+                        "3. log out");
+                int option = scanner.nextInt();
+                switch (option) {
+                    case 1:
+                        addItemToCart();
+                        break;
+                    case 2:
+                        break;
+                    case 3:
+                        logOut();
+                        break;
+                }
+            }
+        }
+    }
+
+    private static void logOut() {
+        UserService.loggedInUser = null;
+        scanner.reset();
+    }
+
+    private static void addItemToCart() {
+        StringBuilder items = new StringBuilder("Enter id of item you want to buy:");
+        itemService.getAllItems().forEach(item -> items.append(item.toString()).append("\n"));
+        System.out.println(items);
+        Long id = scanner.nextLong();
+        System.out.println("Enter how much do you want to buy");
+        Integer numberOfItems = scanner.nextInt();
+        cartService.addItemToCart(id, numberOfItems);
+    }
+}
