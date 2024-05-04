@@ -1,4 +1,4 @@
-package edu.hillel.repository;
+package edu.hillel.repository.item;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -77,5 +77,10 @@ public class ItemRepositoryInMemoryImpl implements ItemRepository {
     @Override
     public void removeItemById(Long id) {
         allItems.removeIf(item -> item.getItemId().equals(id));
+    }
+
+    @Override
+    public void updateItem(Long id, Item newVersionOfItem) {
+
     }
 }

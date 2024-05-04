@@ -1,4 +1,4 @@
-package edu.hillel.repository;
+package edu.hillel.repository.user;
 
 import java.util.List;
 import java.util.Optional;

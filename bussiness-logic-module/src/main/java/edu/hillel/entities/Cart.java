@@ -7,5 +7,5 @@ import lombok.Data;
 @Data
 public class Cart {
     private Map<Long, Integer> addedItems;
-    private User user;
+    private User ownerOfCart;
 }

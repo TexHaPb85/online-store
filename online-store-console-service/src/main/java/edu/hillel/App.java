@@ -2,23 +2,20 @@ package edu.hillel;
 
 import java.util.Scanner;
 
-import edu.hillel.repository.ItemRepository;
-import edu.hillel.repository.ItemRepositoryInMemoryImpl;
-import edu.hillel.repository.UserRepository;
-import edu.hillel.repository.UserRepositoryInMemoryImpl;
+import edu.hillel.repository.item.ItemRepository;
+import edu.hillel.repository.item.ItemRepositoryInMemoryImpl;
+import edu.hillel.repository.user.UserRepository;
+import edu.hillel.repository.user.UserRepositoryInMemoryImpl;
 import edu.hillel.service.CartService;
 import edu.hillel.service.ItemService;
 import edu.hillel.service.UserService;
 
 public class App {
     static Scanner scanner = new Scanner(System.in);
-
     static UserRepository userRepository = new UserRepositoryInMemoryImpl();
     static UserService userService = new UserService(userRepository);
-
     static ItemRepository itemRepository = ItemRepositoryInMemoryImpl.getSingeltonInstance();
-    static ItemService itemService = ItemService.getSingeltonInstance(itemRepository);
-
+    static ItemService itemService = ItemService.getSingletonInstance(itemRepository);
     static CartService cartService = new CartService(itemRepository);
 
     public static void main(String[] args) {
@@ -46,16 +43,11 @@ public class App {
                     case 2:
                         break;
                     case 3:
-                        logOut();
+                        userService.logOut();
                         break;
                 }
             }
         }
-    }
-
-    private static void logOut() {
-        UserService.loggedInUser = null;
-        scanner.reset();
     }
 
     private static void addItemToCart() {

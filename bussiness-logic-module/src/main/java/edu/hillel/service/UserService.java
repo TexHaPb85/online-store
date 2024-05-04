@@ -1,7 +1,7 @@
 package edu.hillel.service;
 
 import edu.hillel.entities.User;
-import edu.hillel.repository.UserRepository;
+import edu.hillel.repository.user.UserRepository;
 
 public class UserService {
     private UserRepository userRepository;
@@ -16,5 +16,9 @@ public class UserService {
             .orElseThrow(() -> new IllegalArgumentException("There no user with such login and password"));
 
         return loggedInUser;
+    }
+
+    public void logOut() {
+        loggedInUser = null;
     }
 }

@@ -1,4 +1,4 @@
-package edu.hillel.repository;
+package edu.hillel.repository.item;
 
 import java.util.List;
 
@@ -27,6 +27,11 @@ public class ItemRepositorySqlStorageImpl implements ItemRepository {
 
     @Override
     public void removeItemById(Long id) {
+
+    }
+
+    @Override
+    public void updateItem(Long id, Item newVersionOfItem) {
 
     }
 }

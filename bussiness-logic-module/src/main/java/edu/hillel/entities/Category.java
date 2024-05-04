@@ -19,6 +19,10 @@ public class Category implements Cloneable {
     public Category() {
     }
 
+    public static Category getInstance() {
+        return new Category();
+    }
+
     @Override
     protected Object clone() throws CloneNotSupportedException {
         Category clone = new Category();
@@ -27,10 +31,6 @@ public class Category implements Cloneable {
         clone.subCategories = subCategories;
         clone.items = items;
         return clone;
-    }
-
-    public static Category getInstance() {
-        return new Category();
     }
 
     public static class CategoryBuilder {

@@ -3,36 +3,32 @@ package edu.hillel.service;
 import java.util.List;
 
 import edu.hillel.entities.Item;
-import edu.hillel.entities.User;
-import edu.hillel.repository.ItemRepository;
-import edu.hillel.repository.ItemRepositoryTxtFilesStorageImpl;
+import edu.hillel.repository.item.ItemRepository;
 
 public class ItemService {
+    private static ItemService singletonImpl;
     private ItemRepository itemRepository;
-
-    private static ItemService singltonImpl;
-
-    public static ItemService getSingeltonInstance(ItemRepository itemRepository){
-        if(singltonImpl == null){
-            singltonImpl = new ItemService(itemRepository);
-        }
-        return singltonImpl;
-    }
 
     private ItemService(ItemRepository itemRepository) {
         this.itemRepository = itemRepository;
     }
 
     private ItemService() {
+    }
 
+    public static ItemService getSingletonInstance(ItemRepository itemRepository) {
+        if (singletonImpl == null) {
+            singletonImpl = new ItemService(itemRepository);
+        }
+        return singletonImpl;
     }
 
     public List<Item> getAllItems() {
         List<Item> allItems = itemRepository.getAllItems();
-        if(allItems.isEmpty()) {
+        if (allItems.isEmpty()) {
             throw new RuntimeException("No items in storage");
         }
-        return  allItems;
+        return allItems;
     }
 
     public void addNewItem(Item item) {

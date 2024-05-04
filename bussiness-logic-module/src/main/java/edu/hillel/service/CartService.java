@@ -5,7 +5,7 @@ import java.util.Map;
 
 import edu.hillel.entities.Cart;
 import edu.hillel.entities.Item;
-import edu.hillel.repository.ItemRepository;
+import edu.hillel.repository.item.ItemRepository;
 
 public class CartService {
     private static Cart cart;
@@ -14,7 +14,7 @@ public class CartService {
     public CartService() {
         cart = new Cart();
         cart.setAddedItems(new HashMap<>());
-        cart.setUser(UserService.loggedInUser);
+        cart.setOwnerOfCart(UserService.loggedInUser);
     }
 
     public CartService(ItemRepository itemRepository) {
