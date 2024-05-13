@@ -1,6 +1,7 @@
 package edu.hillel.service;
 
 import java.util.List;
+import java.util.NoSuchElementException;
 
 import edu.hillel.entities.Item;
 import edu.hillel.repository.item.ItemRepository;
@@ -36,5 +37,12 @@ public class ItemService {
             throw new IllegalArgumentException("item is null");
         }
         itemRepository.addNewItem(item);
+    }
+
+    public Item getItemById(Long itemId) {
+        return getAllItems().stream()
+            .filter(item -> item.getItemId().equals(itemId))
+            .findFirst()
+            .orElseThrow(() -> new NoSuchElementException());
     }
 }

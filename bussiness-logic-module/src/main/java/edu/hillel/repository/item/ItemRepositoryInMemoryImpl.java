@@ -31,7 +31,7 @@ public class ItemRepositoryInMemoryImpl implements ItemRepository {
         allItems = new ArrayList<>();
         allCategories = new ArrayList<>();
 
-        for (int i = 0; i < 500; i++) {
+        for (int i = 0; i < 50; i++) {
             Book book = faker.book();
             Item build = Item.builder()
                 .itemId((long) i)
@@ -71,6 +71,9 @@ public class ItemRepositoryInMemoryImpl implements ItemRepository {
 
     @Override
     public void addNewItem(Item item) {
+        if(item.getItemId() == null){
+            item.setItemId(Long.valueOf(allItems.size()+100));
+        }
         allItems.add(item);
     }
 
