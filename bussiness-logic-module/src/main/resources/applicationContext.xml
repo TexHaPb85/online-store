@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="itemRepositorySqlStorageImpl" class="edu.hillel.repository.item.ItemRepositorySqlStorageImpl">-->
+<!--        <property name="url" value="jdbc:postgresql://localhost:5432/online-store"/>-->
+<!--        <property name="user" value="${postree.user}"/>-->
+<!--        <property name="password" value="ssss"/>-->
+<!--    </bean>-->
+
+<!--    <bean id="itemRepositoryInMemoryImpl" class="edu.hillel.repository.item.ItemRepositoryInMemoryImpl"/>-->
+
+<!--    <bean id="itemService" class="edu.hillel.service.ItemService">-->
+<!--        <property name="itemRepository" ref="itemRepositoryInMemoryImpl"/>-->
+<!--    </bean>-->
+
+
+</beans>

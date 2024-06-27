@@ -1,8 +1,10 @@
 package edu.hillel.entities;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 
 @Builder
+@AllArgsConstructor
 public class Item {
     private Long itemId;
     private String itemName;
@@ -10,18 +12,11 @@ public class Item {
     private Double price;
     private Float rate;
     private Integer instancesLeft;
+    private Category category;
 
     public Item() {
     }
 
-    public Item(Long itemId, String itemName, String description, Double price, Float rate, Integer instancesLeft) {
-        this.itemId = itemId;
-        this.itemName = itemName;
-        this.description = description;
-        this.price = price;
-        this.rate = rate;
-        this.instancesLeft = instancesLeft;
-    }
 
     public Long getItemId() {
         return itemId;

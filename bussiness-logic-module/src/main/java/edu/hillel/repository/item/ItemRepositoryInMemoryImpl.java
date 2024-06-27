@@ -4,18 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
 
+import org.springframework.stereotype.Repository;
+
 import com.github.javafaker.Book;
 import com.github.javafaker.Faker;
 
 import edu.hillel.entities.Category;
 import edu.hillel.entities.Item;
 
+@Repository
 public class ItemRepositoryInMemoryImpl implements ItemRepository {
     private List<Item> allItems;
     private List<Category> allCategories;
     private static ItemRepositoryInMemoryImpl singltonImpl;
 
-    public static ItemRepositoryInMemoryImpl getSingeltonInstance(){
+    public static synchronized ItemRepositoryInMemoryImpl getSingeltonInstance(){
         if(singltonImpl == null){
             singltonImpl = new ItemRepositoryInMemoryImpl();
         }

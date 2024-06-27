@@ -25,13 +25,14 @@ public class ItemsServlet extends HttpServlet {
         this.itemService = ItemService.getSingletonInstance(itemRepository);
     }
 
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String pathInfo = request.getPathInfo();
         if (pathInfo != null && pathInfo.length() > 1) {
             Long itemId = Long.parseLong(pathInfo.substring(1));
-            Item item = itemService.getItemById(itemId);
-            request.setAttribute("item", item);
+            Item item2 = itemService.getItemById(itemId);
+            request.setAttribute("item", item2);
             request.getRequestDispatcher("/item.jsp").forward(request, response);
         } else {
             List<Item> items = itemService.getAllItems();
@@ -54,7 +55,7 @@ public class ItemsServlet extends HttpServlet {
     @Override
     protected void doDelete(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // Delete item by ID
-        //Long itemId = Long.parseLong(request.getPathInfo().substring(1));
+        Long itemId = Long.parseLong(request.getPathInfo().substring(1));
         //itemService.deleteItem(itemId);
         response.setStatus(HttpServletResponse.SC_NO_CONTENT);
     }

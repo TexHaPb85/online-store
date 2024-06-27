@@ -25,7 +25,6 @@
     <form action="${pageContext.request.contextPath}/items/" method="post">
         <label>Item Name: <input type="text" name="itemName"></label><br>
         <label>Description: <input type="text" name="description"></label><br>
-        <!-- Add other input fields -->
         <button type="submit">Add Item</button>
     </form>
 </body>
