@@ -3,8 +3,11 @@ package edu.hillel.repository.user;
 import java.util.List;
 import java.util.Optional;
 
+import org.springframework.stereotype.Repository;
+
 import edu.hillel.entities.User;
 
+@Repository
 public class UserRepositoryInMemoryImpl implements UserRepository {
     private List<User> users;
 

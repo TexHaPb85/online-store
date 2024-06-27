@@ -4,18 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;
 
+import org.springframework.stereotype.Repository;
+
 import com.github.javafaker.Book;
 import com.github.javafaker.Faker;
 
 import edu.hillel.entities.Category;
 import edu.hillel.entities.Item;
 
+@Repository
 public class ItemRepositoryInMemoryImpl implements ItemRepository {
     private List<Item> allItems;
     private List<Category> allCategories;
     private static ItemRepositoryInMemoryImpl singltonImpl;
 
-    public static ItemRepositoryInMemoryImpl getSingeltonInstance(){
+    public static synchronized ItemRepositoryInMemoryImpl getSingeltonInstance(){
         if(singltonImpl == null){
             singltonImpl = new ItemRepositoryInMemoryImpl();
         }
@@ -31,7 +34,7 @@ public class ItemRepositoryInMemoryImpl implements ItemRepository {
         allItems = new ArrayList<>();
         allCategories = new ArrayList<>();
 
-        for (int i = 0; i < 500; i++) {
+        for (int i = 0; i < 50; i++) {
             Book book = faker.book();
             Item build = Item.builder()
                 .itemId((long) i)
@@ -71,6 +74,9 @@ public class ItemRepositoryInMemoryImpl implements ItemRepository {
 
     @Override
     public void addNewItem(Item item) {
+        if(item.getItemId() == null){
+            item.setItemId(Long.valueOf(allItems.size()+100));
+        }
         allItems.add(item);
     }
 

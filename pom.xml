@@ -12,6 +12,8 @@
   <modules>
     <module>bussiness-logic-module</module>
     <module>online-store-console-service</module>
+      <module>online-store-web-service</module>
+      <module>online-store-jsp-web-service</module>
   </modules>
 
   <properties>

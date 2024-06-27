@@ -17,4 +17,12 @@ public interface ItemRepository {
     void removeItemById(Long id);
 
     void updateItem(Long id, Item newVersionOfItem);
+
+    public static ItemRepository getInstanceByName(String nameOfImpl) {
+        switch (nameOfImpl) {
+            case "ItemRepositoryInMemoryImpl": return ItemRepositoryInMemoryImpl.getSingeltonInstance();
+            case "ItemRepositoryTxtFilesStorageImpl": return ItemRepositoryTxtFilesStorageImpl.getSingeltonInstance();
+        }
+        return ItemRepositoryInMemoryImpl.getSingeltonInstance();
+    }
 }
