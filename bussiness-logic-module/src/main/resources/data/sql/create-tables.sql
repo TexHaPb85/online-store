@@ -15,10 +15,9 @@ CREATE TABLE "users" (
 
 -- Create the 'categories' table
 CREATE TABLE categories (
-                          category_id SERIAL PRIMARY KEY,
-                          category_name VARCHAR(100) NOT NULL,
-                          parent_category_id INTEGER,
-                          FOREIGN KEY (parent_category_id) REFERENCES categories (category_id)
+                          category_name VARCHAR(100) PRIMARY KEY,
+                          parent_category_name INTEGER,
+                          FOREIGN KEY (parent_category_name) REFERENCES categories (category_name)
 );
 
 -- Create the 'items' table
