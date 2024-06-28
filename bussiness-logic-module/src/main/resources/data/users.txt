@@ -1,0 +1,10 @@
+a1_a1_admin Joe Konopelski_ADMIN
+a2_a2_admin Ms. Trenton Wisozk_ADMIN
+a3_a3_admin Stephenie Haag_ADMIN
+c1_c1_client Donald Beatty_CLIENT
+c2_c2_client Kandice Trantow_CLIENT
+c3_c3_client Kenyatta Ortiz_CLIENT
+c4_c4_client Ms. Kris Dietrich_CLIENT
+c5_c5_client Valentin Langworth_CLIENT
+c6_c6_client Mr. Vito Emmerich_CLIENT
+c7_c7_client Dewayne Osinski_CLIENT
