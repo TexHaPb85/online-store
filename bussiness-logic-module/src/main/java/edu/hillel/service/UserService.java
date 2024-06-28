@@ -1,12 +1,18 @@
 package edu.hillel.service;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import edu.hillel.entities.User;
 import edu.hillel.repository.user.UserRepository;
+
 
 import java.util.Objects;
 import java.util.Set;
 
+@Service
 public class UserService {
+    @Autowired
     private UserRepository userRepository;
     private static UserService singletonUser;
     public static User loggedInUser;

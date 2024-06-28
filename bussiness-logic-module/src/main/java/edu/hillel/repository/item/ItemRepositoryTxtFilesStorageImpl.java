@@ -3,11 +3,14 @@ package edu.hillel.repository.item;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Repository;
+
 import edu.hillel.entities.Item;
 import edu.hillel.utilities.FileUtils;
 
 import static edu.hillel.constants.Constants.PATH_TO_ITEMS_FILE;
 
+@Repository
 public class ItemRepositoryTxtFilesStorageImpl implements ItemRepository {
 
     private static ItemRepositoryTxtFilesStorageImpl singltonImpl;
