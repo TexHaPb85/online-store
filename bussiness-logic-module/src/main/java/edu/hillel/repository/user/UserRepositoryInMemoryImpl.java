@@ -2,6 +2,11 @@ package edu.hillel.repository.user;
 
 import com.github.javafaker.Faker;
 import com.github.javafaker.Name;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Repository;
+
 import edu.hillel.entities.User;
 
 import java.util.HashSet;
@@ -9,6 +14,7 @@ import java.util.NoSuchElementException;
 import java.util.Optional;
 import java.util.Set;
 
+@Repository
 public class UserRepositoryInMemoryImpl implements UserRepository {
     private Set<User> users;
     private static UserRepositoryInMemoryImpl singletonUser;

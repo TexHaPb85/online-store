@@ -3,10 +3,14 @@ package edu.hillel.service;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+
 import edu.hillel.entities.Cart;
 import edu.hillel.entities.Item;
 import edu.hillel.repository.item.ItemRepository;
 
+@Service
 public class CartService {
     private static Cart cart;
     private ItemRepository itemRepository;
