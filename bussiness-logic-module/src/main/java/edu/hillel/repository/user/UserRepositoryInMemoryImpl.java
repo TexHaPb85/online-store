@@ -18,7 +18,14 @@ public class UserRepositoryInMemoryImpl implements UserRepository {
             .name("simpleUser")
             .role(User.Role.CLIENT)
             .build();
-        this.users = List.of(simpleUser);
+
+        User simpleUser2 = User.builder()
+            .login("2")
+            .password("2")
+            .name("simpleUser2")
+            .role(User.Role.CLIENT)
+            .build();
+        this.users = List.of(simpleUser, simpleUser2);
     }
 
     @Override
