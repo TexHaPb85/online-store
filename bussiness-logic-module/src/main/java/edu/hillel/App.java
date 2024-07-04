@@ -1,8 +1,12 @@
 package edu.hillel;
 
 import edu.hillel.entities.Category;
+import edu.hillel.entities.User;
 import edu.hillel.repository.category.CategoryRepository;
+import edu.hillel.repository.category.CategoryRepositorySQLImpl;
 import edu.hillel.repository.category.CategoryRepositoryTxtFilesStorageImpl;
+import edu.hillel.repository.user.UserRepository;
+import edu.hillel.repository.user.UserRepositorySQLImpl;
 import edu.hillel.service.CategoryService;
 
 import java.util.concurrent.atomic.AtomicInteger;
@@ -41,75 +45,41 @@ public class App {
 //        System.out.println(itemService.getAllItems());
 
 
-        CategoryRepository singletonInstance = CategoryRepositoryTxtFilesStorageImpl.getSingletonInstance();
-        CategoryService categoryService = CategoryService.getSingletonInstance(singletonInstance);
+//        UserRepository userRepository = UserRepositorySQLImpl.getSingletonInstance();
+//        UserService userService = UserService.getSingletonInstance(userRepository);
+//
+////        userService.getAllUsers().forEach(user -> System.out.println(user));
+//
+//        User findUser = userService.logIn("client2", "password123");
+//        System.out.println(findUser);
+//
+//        User newAdmin = User.builder()
+//                .login("NewAdmin")
+//                .password("1234")
+//                .name("admin")
+//                .role(User.Role.ADMIN)
+//                .build();
+//        userService.addUser(newAdmin);
+////        userService.removeUser("NewAdmin");
+//        User updatedAdmin = User.builder()
+//                .login("UpdatedAdmin")
+//                .password("4321")
+//                .name("admin")
+//                .role(User.Role.CLIENT)
+//                .build();
+//        userService.updateUser("NewAdmin",updatedAdmin);
+//
+//        userService.getAllUsers().forEach(user -> System.out.println(user));
 
-        categoryService.getAllCategory()
-                .forEach(category -> System.out.println(category));
 
-        Category samsung = new Category.CategoryBuilder()
-                .name("Samsung")
-                .parentCategory(categoryService.getAllCategory()
-                        .stream()
-                        .filter(category -> category.getCategoryName().equals("Electronic"))
-                        .findFirst()
-                        .get())
-                .build();
-        categoryService.addCategory(samsung);
+        CategoryRepository categoryRepository = CategoryRepositorySQLImpl.getSingletonInstance();
+        CategoryService categoryService = CategoryService.getSingletonInstance(categoryRepository);
 
-        categoryService.removeCategory("iPhone");
+        categoryService.getAllCategory().forEach(category -> System.out.println(category.toString()));
+        Category car = new Category.CategoryBuilder().name("Car").build();
+        categoryService.addCategory(car);
 
-        /*categoryService.addCategory(new Category.CategoryBuilder()
-                .name("Books")
-                .parentCategory(categoryService.getAllCategory()
-                        .stream()
-                        .filter(category -> category.getCategoryName().equals("Main"))
-                        .findFirst()
-                        .get())
-                .build());
+        categoryService.getAllCategory().forEach(category -> System.out.println(category.toString()));
 
-        Category smartphone = new Category.CategoryBuilder()
-                .name("Smartphone")
-                .parentCategory(categoryService.getAllCategory()
-                        .stream()
-                        .filter(category -> category.getCategoryName().equals("Main"))
-                        .findFirst()
-                        .get())
-                .build();
-        categoryService.addCategory(smartphone);
-
-        Category electronic = new Category.CategoryBuilder()
-                .name("Electronic")
-                .parentCategory(categoryService.getAllCategory()
-                        .stream()
-                        .filter(category -> category.getCategoryName().equals("Main"))
-                        .findFirst()
-                        .get())
-                .subCategories(List.of(smartphone))
-                .build();
-        categoryService.addCategory(electronic);
-
-        categoryService.getAllCategory()
-                .forEach(category -> System.out.println(category));
-
-//        categoryService.removeCategory(electronic);
-
-        System.out.println();
-        categoryService.getAllCategory()
-                .forEach(category -> System.out.println(category));
-
-        Category updatedSmartphone = new Category.CategoryBuilder()
-                .name("iPhone")
-                .parentCategory(categoryService.getAllCategory()
-                        .stream()
-                        .filter(category -> category.getCategoryName().equals("Electronic"))
-                        .findFirst()
-                        .get())
-                .build();
-
-        categoryService.updateCategory("Smartphone", updatedSmartphone);
-        System.out.println();
-        categoryService.getAllCategory()
-                .forEach(category -> System.out.println(category));*/
     }
 }
