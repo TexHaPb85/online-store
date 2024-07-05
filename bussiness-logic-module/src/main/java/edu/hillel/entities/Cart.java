@@ -1,6 +1,5 @@
 package edu.hillel.entities;
 
-import java.util.Collections;
 import java.util.Map;
 
 import lombok.Data;
@@ -20,7 +19,7 @@ public class Cart {
         }
     }
 
-    public void removeAllItemsById(Long id) {
+    public void removeItemFromCartById(Long id) {
         if (!getAddedItems().containsKey(id))
             throw new IllegalArgumentException(String.format("Item with ID %d is not exist in the cart\n", id));
         getAddedItems().remove(id);
@@ -29,13 +28,15 @@ public class Cart {
     public void updateItemsCountById(Long id, Integer numberOfItems) {
         if (numberOfItems < 0)
             throw new IllegalArgumentException("Number of items can't be negative");
-        else if (numberOfItems == 0)
-            removeAllItemsById(id);
-        else {
-            if (!getAddedItems().containsKey(id))
-                addItemToCart(id, numberOfItems);
-            else
-                getAddedItems().replace(id, numberOfItems);
+
+        if (numberOfItems == 0) {
+            removeItemFromCartById(id);
+            return;
         }
+
+        if (!getAddedItems().containsKey(id))
+            addItemToCart(id, numberOfItems);
+        else
+            getAddedItems().put(id, numberOfItems);
     }
 }

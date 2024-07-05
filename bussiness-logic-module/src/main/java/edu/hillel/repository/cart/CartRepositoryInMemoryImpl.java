@@ -51,7 +51,7 @@ public class CartRepositoryInMemoryImpl implements CartRepository {
     @Override
     public void removeAllItemsById(String userLogin, Long id) {
         Cart cart = getOrAddCartByUserLogin(userLogin);
-        cart.removeAllItemsById(id);
+        cart.removeItemFromCartById(id);
     }
 
     @Override
