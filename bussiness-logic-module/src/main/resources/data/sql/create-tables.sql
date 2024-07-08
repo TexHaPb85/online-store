@@ -16,7 +16,7 @@ CREATE TABLE "users" (
 -- Create the 'categories' table
 CREATE TABLE categories (
                           category_name VARCHAR(100) PRIMARY KEY,
-                          parent_category_name INTEGER,
+                          parent_category_name VARCHAR(100),
                           FOREIGN KEY (parent_category_name) REFERENCES categories (category_name)
 );
 

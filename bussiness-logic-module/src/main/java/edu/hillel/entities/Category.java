@@ -4,6 +4,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Getter
@@ -23,10 +24,16 @@ public class Category implements Cloneable {
     }
 
     public Category() {
+        this.subCategories = new ArrayList<>();
+        this.items = new ArrayList<>();
     }
 
     public static Category getInstance() {
         return new Category();
+    }
+
+    public void addSubCategory(Category subCategory) {
+        this.subCategories.add(subCategory);
     }
 
     @Override
