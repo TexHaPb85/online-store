@@ -2,6 +2,7 @@ package edu.hillel.repository.cart;
 
 import edu.hillel.entities.Cart;
 import org.springframework.stereotype.Repository;
+
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
@@ -11,8 +12,8 @@ public class CartRepositoryInMemoryImpl implements CartRepository {
     private Map<String, Cart> carts;
     private static CartRepositoryInMemoryImpl singletonImpl;
 
-    public static synchronized CartRepositoryInMemoryImpl getSingletonInstance(){
-        if (singletonImpl == null){
+    public static synchronized CartRepositoryInMemoryImpl getSingletonInstance() {
+        if (singletonImpl == null) {
             singletonImpl = new CartRepositoryInMemoryImpl();
         }
         return singletonImpl;
@@ -21,12 +22,13 @@ public class CartRepositoryInMemoryImpl implements CartRepository {
     private CartRepositoryInMemoryImpl() {
         initialize();
     }
+
     private void initialize() {
         carts = new HashMap<>();
     }
 
-    private Cart getOrAddCartByUserLogin(String userLogin){
-        if (!carts.containsKey(userLogin)){
+    private Cart getOrAddCartByUserLogin(String userLogin) {
+        if (!carts.containsKey(userLogin)) {
             Cart cart = new Cart();
             cart.setAddedItems(new HashMap<>());
             cart.setOwnerOfCart(userLogin);

@@ -10,10 +10,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan(basePackages = "edu.hillel")
-public class App
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
 ////        ItemRepository ir = new ItemRepositorySqlStorageImpl();
 ////        ItemService is = new ItemService(ir);
 //        // Створення контексту Spring і сканування пакетів

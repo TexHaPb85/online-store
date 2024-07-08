@@ -18,8 +18,8 @@ public class CartRepositoryInTxtImpl implements CartRepository {
     private static CartRepositoryInTxtImpl singletonImpl;
     private final String TXT_FILE_PATH = "data/carts.txt";
 
-    public static synchronized CartRepositoryInTxtImpl getSingletonInstance(){
-        if (singletonImpl == null){
+    public static synchronized CartRepositoryInTxtImpl getSingletonInstance() {
+        if (singletonImpl == null) {
             singletonImpl = new CartRepositoryInTxtImpl();
         }
         return singletonImpl;
@@ -28,12 +28,13 @@ public class CartRepositoryInTxtImpl implements CartRepository {
     private CartRepositoryInTxtImpl() {
         initialize();
     }
+
     private void initialize() {
         carts = new HashMap<>();
         loadTxtFile();
     }
 
-    private void loadTxtFile(){
+    private void loadTxtFile() {
         List<Item> items = new ArrayList<>();
         String fileContent = FileUtils.readFileContent(TXT_FILE_PATH);
 
@@ -44,7 +45,7 @@ public class CartRepositoryInTxtImpl implements CartRepository {
         int itemEntriesCountLeft = 0;
 
         for (String line : fileContent.split("\n")) {
-            switch (cartLoadStep){
+            switch (cartLoadStep) {
                 // user login
                 case 0: {
                     loadingCart = new Cart();
@@ -74,7 +75,7 @@ public class CartRepositoryInTxtImpl implements CartRepository {
         }
     }
 
-    private void saveTxtFile(){
+    private void saveTxtFile() {
         List<Item> items = new ArrayList<>();
 
         String rootPath = Thread.currentThread().getContextClassLoader().getResource("").getPath();
@@ -92,14 +93,14 @@ public class CartRepositoryInTxtImpl implements CartRepository {
         }
 
         try (FileWriter writer = new FileWriter(txtPathStr)) {
-            carts.forEach((k,v) -> {
+            carts.forEach((k, v) -> {
                 try {
                     writer.write(v.getOwnerOfCart());
                     writer.write("\n");
                     writer.write(Integer.toString(v.getAddedItems().size()));
                     writer.write("\n");
-                    v.getAddedItems().forEach((ik, iv) ->{
-                        try{
+                    v.getAddedItems().forEach((ik, iv) -> {
+                        try {
                             writer.write(Integer.toString(ik.intValue()));
                             writer.write(" ");
                             writer.write(Integer.toString(iv));
@@ -118,8 +119,8 @@ public class CartRepositoryInTxtImpl implements CartRepository {
         }
     }
 
-    private Cart getOrAddCartByUserLogin(String userLogin){
-        if (!carts.containsKey(userLogin)){
+    private Cart getOrAddCartByUserLogin(String userLogin) {
+        if (!carts.containsKey(userLogin)) {
             Cart cart = new Cart();
             cart.setAddedItems(new HashMap<>());
             cart.setOwnerOfCart(userLogin);

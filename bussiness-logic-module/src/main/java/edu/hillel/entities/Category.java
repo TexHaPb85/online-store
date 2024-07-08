@@ -1,8 +1,14 @@
 package edu.hillel.entities;
 
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.List;
 
-
+@Getter
+@Setter
+@EqualsAndHashCode
 public class Category implements Cloneable {
     private String categoryName;
     private Category parentCategory;
@@ -33,6 +39,28 @@ public class Category implements Cloneable {
         return clone;
     }
 
+    @Override
+    public String toString() {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(categoryName);
+
+        if (parentCategory != null) {
+            stringBuilder.append("_").append(parentCategory.getCategoryName());
+        } else {
+            stringBuilder.append("_null");
+        }
+        if (subCategories != null) {
+            List<String> list = subCategories.stream()
+                    .map(Category::getCategoryName)
+                    .toList();
+            stringBuilder.append("_").append(list);
+        } else {
+            stringBuilder.append("_null");
+        }
+        return String.valueOf(stringBuilder);
+
+    }
+
     public static class CategoryBuilder {
         private Category category;
 
@@ -47,6 +75,11 @@ public class Category implements Cloneable {
 
         public CategoryBuilder parentCategory(Category parentCategory) {
             category.parentCategory = parentCategory;
+            return this;
+        }
+
+        public CategoryBuilder subCategories(List<Category> subCategories) {
+            category.subCategories = subCategories;
             return this;
         }
 

@@ -1,10 +1,11 @@
 package edu.hillel.service;
 
-import java.util.Map;
-import edu.hillel.repository.cart.CartRepository;
-import org.springframework.stereotype.Service;
 import edu.hillel.entities.Item;
+import edu.hillel.repository.cart.CartRepository;
 import edu.hillel.repository.item.ItemRepository;
+import org.springframework.stereotype.Service;
+
+import java.util.Map;
 
 @Service
 public class CartService {
@@ -49,11 +50,10 @@ public class CartService {
         return totalAmount;
     }
 
-    public void removeAllItemsById(Long id){
+    public void removeAllItemsById(Long id) {
         try {
             cartRepository.removeAllItemsById(UserService.loggedInUser.getLogin(), id);
-        }
-        catch (IllegalArgumentException e){
+        } catch (IllegalArgumentException e) {
             System.out.printf("Error: %s\n", e.getMessage());
         }
     }
@@ -61,8 +61,7 @@ public class CartService {
     public void updateItemsCountById(Long id, Integer numberOfItems) {
         try {
             cartRepository.updateItemsCountById(UserService.loggedInUser.getLogin(), id, numberOfItems);
-        }
-        catch (IllegalArgumentException e){
+        } catch (IllegalArgumentException e) {
             System.out.printf("Error: %s\n", e.getMessage());
         }
     }
