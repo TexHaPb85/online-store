@@ -15,8 +15,8 @@ import edu.hillel.service.UserService;
 
 public class App {
     static Scanner scanner = new Scanner(System.in);
-    static UserRepository userRepository = new UserRepositoryInMemoryImpl();
-    static UserService userService = new UserService(userRepository);
+    static UserRepository userRepository = UserRepositoryInMemoryImpl.getSingletonInstance();
+    static UserService userService = UserService.getSingletonInstance(userRepository);
     static ItemRepository itemRepository = ItemRepositoryInMemoryImpl.getSingeltonInstance();
     static ItemService itemService = ItemService.getSingletonInstance(itemRepository);
     static CartRepository cartRepository = CartRepositoryInTxtImpl.getSingletonInstance();

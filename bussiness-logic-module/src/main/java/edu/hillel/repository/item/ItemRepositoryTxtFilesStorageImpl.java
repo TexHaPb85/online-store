@@ -8,6 +8,8 @@ import org.springframework.stereotype.Repository;
 import edu.hillel.entities.Item;
 import edu.hillel.utilities.FileUtils;
 
+import static edu.hillel.constants.Constants.PATH_TO_ITEMS_FILE;
+
 @Repository
 public class ItemRepositoryTxtFilesStorageImpl implements ItemRepository {
 
@@ -26,7 +28,7 @@ public class ItemRepositoryTxtFilesStorageImpl implements ItemRepository {
     @Override
     public List<Item> getAllItems() {
         List<Item> items = new ArrayList<>();
-        String fileContent = FileUtils.readFileContent("data/items.txt");
+        String fileContent = FileUtils.readFileContent(PATH_TO_ITEMS_FILE);
 
         for (String nextLine : fileContent.split("\n")) {
             String[] separateWord = nextLine.split("_");

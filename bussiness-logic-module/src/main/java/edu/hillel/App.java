@@ -1,19 +1,7 @@
 package edu.hillel;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-import edu.hillel.repository.item.ItemRepository;
-import edu.hillel.repository.item.ItemRepositoryInMemoryImpl;
-import edu.hillel.repository.item.ItemRepositorySqlStorageImpl;
-import edu.hillel.repository.item.ItemRepositoryTxtFilesStorageImpl;
-import edu.hillel.service.ItemService;
-import edu.hillel.service.UserService;
 
 /**
  * Hello world!
@@ -22,7 +10,7 @@ import edu.hillel.service.UserService;
 
 @Configuration
 @ComponentScan(basePackages = "edu.hillel")
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
@@ -37,6 +25,5 @@ public class App
 //
 //        // Виклик методу біна
 //        System.out.println(itemService.getAllItems());
-
     }
 }

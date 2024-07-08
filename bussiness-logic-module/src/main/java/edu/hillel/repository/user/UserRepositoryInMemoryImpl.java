@@ -1,5 +1,7 @@
 package edu.hillel.repository.user;
 
+import com.github.javafaker.Faker;
+import com.github.javafaker.Name;
 import java.util.List;
 import java.util.Optional;
 
@@ -7,37 +9,94 @@ import org.springframework.stereotype.Repository;
 
 import edu.hillel.entities.User;
 
+import java.util.HashSet;
+import java.util.NoSuchElementException;
+import java.util.Optional;
+import java.util.Set;
+
 @Repository
 public class UserRepositoryInMemoryImpl implements UserRepository {
-    private List<User> users;
+    private Set<User> users;
+    private static UserRepositoryInMemoryImpl singletonUser;
 
-    public UserRepositoryInMemoryImpl() {
-        User simpleUser = User.builder()
-            .login("1")
-            .password("1")
-            .name("simpleUser")
-            .role(User.Role.CLIENT)
-            .build();
+    public static UserRepositoryInMemoryImpl getSingletonInstance() {
+        if (singletonUser == null) {
+            singletonUser = new UserRepositoryInMemoryImpl();
+        }
+        return singletonUser;
+    }
 
-        User simpleUser2 = User.builder()
-            .login("2")
-            .password("2")
-            .name("simpleUser2")
-            .role(User.Role.CLIENT)
-            .build();
-        this.users = List.of(simpleUser, simpleUser2);
+    private UserRepositoryInMemoryImpl() {
+        users = new HashSet<>();
+        initializeClient();
+        initializeAdmin();
+    }
+
+    private void initializeClient() {
+        Faker faker = new Faker();
+        for (int i = 1; i <= 10; i++) {
+            Name name = faker.name();
+            User simpleUser = User.builder()
+                    .login("c" + i)
+                    .password("c" + i)
+                    .name("client " + name.name())
+                    .role(User.Role.CLIENT)
+                    .build();
+            users.add(simpleUser);
+        }
+    }
+
+    private void initializeAdmin() {
+        Faker faker = new Faker();
+        for (int i = 1; i <= 3; i++) {
+            Name name = faker.name();
+            User simpleUser = User.builder()
+                    .login("a" + i)
+                    .password("a" + i)
+                    .name("admin " + name.name())
+                    .role(User.Role.ADMIN)
+                    .build();
+            users.add(simpleUser);
+        }
+
     }
 
     @Override
-    public List<User> getAllUsers() {
-        return this.users;
+    public Set<User> getAllUsers() {
+        return users;
+    }
+
+    @Override
+    public void addUser(User user) {
+        if (!users.contains(user)) {
+            users.add(user);
+        } else {
+            throw new IllegalArgumentException("User already exist");
+        }
+    }
+
+    @Override
+    public void removeUser(String login) {
+        this.users.removeIf(user -> user.getLogin().equals(login));
+    }
+
+    @Override
+    public void updateUser(String login, User updatedUser) {
+        users.stream()
+                .filter(user -> user.getLogin().equals(login))
+                .findAny()
+                .ifPresentOrElse(user -> {
+                            users.remove(user);
+                            users.add(updatedUser);
+                        },
+                        () -> new NoSuchElementException("User is not exist"));
     }
 
     @Override
     public Optional<User> findUserByLoginPassword(String login, String password) {
         return getAllUsers()
-            .stream()
-            .filter(user -> user.getLogin().equals(login) && user.getPassword().equals(password))
-            .findAny();
+                .stream()
+                .filter(user -> user.getLogin().equals(login) && user.getPassword().equals(password))
+                .findAny();
     }
 }
