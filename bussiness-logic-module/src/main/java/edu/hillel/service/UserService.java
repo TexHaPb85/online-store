@@ -1,11 +1,9 @@
 package edu.hillel.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
 import edu.hillel.entities.User;
 import edu.hillel.repository.user.UserRepository;
-
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Objects;
 import java.util.Set;
@@ -51,7 +49,7 @@ public class UserService {
         if (!getAllUsers().contains(user)) {
             userRepository.addUser(user);
         } else {
-            System.out.println("Cannot add this user. User already exist");
+            throw new IllegalArgumentException("Cannot add this user. User already exist");
         }
     }
 

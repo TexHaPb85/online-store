@@ -6,12 +6,14 @@ import edu.hillel.repository.user.UserRepositoryInMemoryImpl;
 import edu.hillel.service.UserService;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public class LoginServlet extends HttpServlet {
+@WebServlet(urlPatterns = "/registration")
+public class RegistrationServlet extends HttpServlet {
     private UserRepository userRepository;
     private UserService userService;
 
@@ -25,25 +27,24 @@ public class LoginServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.setAttribute("contextPath", request.getContextPath());
-        request.getRequestDispatcher("login.jsp").forward(request, response);
+        request.getRequestDispatcher("registration.jsp").forward(request, response);
     }
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String userLogin = request.getParameter("login");
-        String userPassword = request.getParameter("password");
+        User user = new User();
+        user.setLogin(request.getParameter("login"));
+        user.setPassword(request.getParameter("password"));
+        user.setName(request.getParameter("name"));
+        user.setRole(User.Role.CLIENT);
         try {
-            userService.logIn(userLogin, userPassword);
+            userService.addUser(user);
+            userService.logIn(user.getLogin(), user.getPassword());
+            request.getSession().setAttribute("user", UserService.loggedInUser);
         } catch (IllegalArgumentException e) {
-            request.setAttribute("errorMessage", "Invalid login or password");
-            request.getRequestDispatcher("login.jsp").forward(request, response);
-            return;
+            request.setAttribute("errorMessage", "User already exist");
+            request.getRequestDispatcher("registration.jsp").forward(request, response);
         }
-        User loggedInUser = UserService.loggedInUser;
-        request.getSession().setAttribute("user", loggedInUser);
-        switch (loggedInUser.getRole()) {
-            case CLIENT -> response.sendRedirect(request.getContextPath() + "/home");
-            case ADMIN -> response.sendRedirect(request.getContextPath() + "/admin-home-page");
-        }
+        response.sendRedirect(request.getContextPath() + "/home");
     }
 }
