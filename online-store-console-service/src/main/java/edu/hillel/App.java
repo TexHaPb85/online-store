@@ -19,12 +19,12 @@ public class App {
     static ItemRepository itemRepository = ItemRepositoryInMemoryImpl.getSingeltonInstance();
     static ItemService itemService = ItemService.getSingletonInstance(itemRepository);
     static CartRepository cartRepository = CartRepositoryInTxtImpl.getSingletonInstance();
-    static CartService cartService = new CartService(itemRepository, cartRepository);
+    static CartService cartService = new CartService(itemRepository, cartRepository, userService);
 
     public static void main(String[] args) {
 
         while (true) {
-            if (UserService.loggedInUser == null) {
+            if (userService.loggedInUser == null) {
                 System.out.println("Please enter your email:");
                 String email = scanner.nextLine();
                 System.out.println("Please enter your password:");

@@ -5,6 +5,7 @@ import edu.hillel.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.rmi.AccessException;
 import java.util.Objects;
 import java.util.Set;
 
@@ -13,7 +14,7 @@ public class UserService {
     @Autowired
     private UserRepository userRepository;
     private static UserService singletonUser;
-    public static User loggedInUser;
+    public User loggedInUser;
 
     private UserService(UserRepository userRepository) {
         this.userRepository = userRepository;
@@ -33,6 +34,14 @@ public class UserService {
         return loggedInUser;
     }
 
+    public void checkAlreadyLoggedUser(User loggedInUser, String clientIPAddress, String userLogin) throws AccessException {
+        if (loggedInUser != null
+                && loggedInUser.getClientIPAddress().equals(clientIPAddress)
+                && loggedInUser.getLogin().equals(userLogin)) {
+            throw new AccessException("User already logged");
+        }
+    }
+
     public void logOut() {
         loggedInUser = null;
     }
@@ -45,12 +54,7 @@ public class UserService {
         if (Objects.isNull(user)) {
             throw new IllegalArgumentException("User is null");
         }
-
-        if (!getAllUsers().contains(user)) {
-            userRepository.addUser(user);
-        } else {
-            throw new IllegalArgumentException("Cannot add this user. User already exist");
-        }
+        userRepository.addUser(user);
     }
 
     public void removeUser(String login) {

@@ -13,6 +13,7 @@ public class User {
     private String password;
     private String name;
     private Role role;
+    private String clientIPAddress;
 
     public enum Role {
         ADMIN, CLIENT
