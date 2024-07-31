@@ -11,22 +11,20 @@ import java.util.Map;
 public class CartService {
     private ItemRepository itemRepository;
     private CartRepository cartRepository;
-    private UserService userService;
 
 
-    public CartService(ItemRepository itemRepository, CartRepository cartRepository, UserService userService) {
+    public CartService(ItemRepository itemRepository, CartRepository cartRepository) {
         this.itemRepository = itemRepository;
         this.cartRepository = cartRepository;
-        this.userService = userService;
     }
 
     public void addItemToCart(Long itemId, Integer numberOfItems) {
-        cartRepository.addItemToCart(userService.loggedInUser.getLogin(), itemId, numberOfItems);
+        cartRepository.addItemToCart(UserService.loggedInUser.getLogin(), itemId, numberOfItems);
     }
 
     public String getCartContent() {
         StringBuilder stringBuilder = new StringBuilder();
-        Map<Long, Integer> addedItems = cartRepository.getAddedItems(userService.loggedInUser.getLogin());
+        Map<Long, Integer> addedItems = cartRepository.getAddedItems(UserService.loggedInUser.getLogin());
         for (Map.Entry<Long, Integer> entry : addedItems.entrySet()) {
             Item itemById = itemRepository.getItemById(entry.getKey());
             stringBuilder
@@ -43,7 +41,7 @@ public class CartService {
 
     public Double getTotalCartAmount() {
         Double totalAmount = 0.0;
-        Map<Long, Integer> addedItems = cartRepository.getAddedItems(userService.loggedInUser.getLogin());
+        Map<Long, Integer> addedItems = cartRepository.getAddedItems(UserService.loggedInUser.getLogin());
         for (Map.Entry<Long, Integer> entry : addedItems.entrySet()) {
             Item itemById = itemRepository.getItemById(entry.getKey());
             totalAmount += itemById.getPrice() * entry.getValue();
@@ -54,7 +52,7 @@ public class CartService {
 
     public void removeAllItemsById(Long id) {
         try {
-            cartRepository.removeAllItemsById(userService.loggedInUser.getLogin(), id);
+            cartRepository.removeAllItemsById(UserService.loggedInUser.getLogin(), id);
         } catch (IllegalArgumentException e) {
             System.out.printf("Error: %s\n", e.getMessage());
         }
@@ -62,7 +60,7 @@ public class CartService {
 
     public void updateItemsCountById(Long id, Integer numberOfItems) {
         try {
-            cartRepository.updateItemsCountById(userService.loggedInUser.getLogin(), id, numberOfItems);
+            cartRepository.updateItemsCountById(UserService.loggedInUser.getLogin(), id, numberOfItems);
         } catch (IllegalArgumentException e) {
             System.out.printf("Error: %s\n", e.getMessage());
         }

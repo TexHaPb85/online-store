@@ -18,7 +18,7 @@ public class UserService {
     private UserRepository userRepository;
     private static UserService singletonUser;
     public Map<String, HttpSession> loggedInUsers;
-    public User loggedInUser;
+    public static User loggedInUser;
 
     private UserService(UserRepository userRepository) {
         this.userRepository = userRepository;
