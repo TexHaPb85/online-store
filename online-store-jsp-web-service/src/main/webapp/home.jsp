@@ -11,7 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-<h2>Hello Buyer!</h2>
+<h2>Hello Buyer ${user.name}</h2>
+<jsp:include page="logoutButton.jsp" />
 <a href="${contextPath}/items/">See all items</a>
 </body>
 </html>

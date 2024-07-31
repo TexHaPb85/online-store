@@ -5,6 +5,8 @@
     <title>Items</title>
 </head>
 <body>
+<p> User name : ${user.name}</p>
+<jsp:include page="logoutButton.jsp" />
     <table>
         <tr>
             <th>Item ID</th>

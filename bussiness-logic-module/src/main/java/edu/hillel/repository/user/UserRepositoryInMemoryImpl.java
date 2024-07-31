@@ -64,11 +64,12 @@ public class UserRepositoryInMemoryImpl implements UserRepository {
 
     @Override
     public void addUser(User user) {
-        if (!users.contains(user)) {
-            users.add(user);
-        } else {
-            throw new IllegalArgumentException("User already exist");
-        }
+        users.stream()
+                .filter(userFilter -> userFilter.getLogin().equals(user.getLogin()))
+                .findAny()
+                .ifPresentOrElse(existingUser -> {
+                    throw new IllegalArgumentException("User already exist");
+                }, () -> users.add(user));
     }
 
     @Override

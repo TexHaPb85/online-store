@@ -4,17 +4,13 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee webapp_4_0.xsd"
          version="4.0">
     <servlet>
-        <servlet-name>indexServlet</servlet-name>
-        <servlet-class>edu.hillel.controller.HomeServlet</servlet-class>
-        <init-param>
-            <param-name>param1</param-name>
-            <param-value>val1</param-value>
-        </init-param>
+        <servlet-name>StartPageServlet</servlet-name>
+        <servlet-class>edu.hillel.controller.StartPageServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>indexServlet</servlet-name>
-        <url-pattern>/home</url-pattern>
+        <servlet-name>StartPageServlet</servlet-name>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 
 
@@ -30,6 +26,15 @@
     <servlet-mapping>
         <servlet-name>itemsServlet</servlet-name>
         <url-pattern>/items/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>edu.hillel.controller.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
     </servlet-mapping>
 </web-app>
 

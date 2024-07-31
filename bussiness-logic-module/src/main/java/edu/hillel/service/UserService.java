@@ -1,12 +1,14 @@
 package edu.hillel.service;
 
+import edu.hillel.entities.User;
+import edu.hillel.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import edu.hillel.entities.User;
-import edu.hillel.repository.user.UserRepository;
-
-
+import javax.servlet.http.HttpSession;
+import java.rmi.AccessException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
@@ -15,10 +17,12 @@ public class UserService {
     @Autowired
     private UserRepository userRepository;
     private static UserService singletonUser;
+    public Map<String, HttpSession> loggedInUsers;
     public static User loggedInUser;
 
     private UserService(UserRepository userRepository) {
         this.userRepository = userRepository;
+        loggedInUsers = new HashMap<>();
     }
 
     public static UserService getSingletonInstance(UserRepository userRepository) {
@@ -29,14 +33,32 @@ public class UserService {
     }
 
     public User logIn(String login, String password) {
-        loggedInUser = userRepository
+        User validUser = userRepository
                 .findUserByLoginPassword(login, password)
                 .orElseThrow(() -> new IllegalArgumentException("There no user with such login and password"));
-        return loggedInUser;
+        loggedInUser = validUser; // for old realisation with one user
+        return validUser;
+    }
+
+    public void checkAlreadyLoggedUser(Map<String, HttpSession> loggedInUsers, String userLogin) throws AccessException {
+        HttpSession httpSession = loggedInUsers.get(userLogin);
+        if (httpSession != null) {
+            try {
+                httpSession.getAttribute("user");
+            } catch (IllegalStateException e) {
+                return;
+            }
+            throw new AccessException("User already logged");
+        }
     }
 
     public void logOut() {
         loggedInUser = null;
+    }
+
+    public void logOut(String userLogin) {
+        loggedInUsers.get(userLogin).invalidate();
+        loggedInUsers.remove(userLogin);
     }
 
     public Set<User> getAllUsers() {
@@ -47,12 +69,7 @@ public class UserService {
         if (Objects.isNull(user)) {
             throw new IllegalArgumentException("User is null");
         }
-
-        if (!getAllUsers().contains(user)) {
-            userRepository.addUser(user);
-        } else {
-            System.out.println("Cannot add this user. User already exist");
-        }
+        userRepository.addUser(user);
     }
 
     public void removeUser(String login) {

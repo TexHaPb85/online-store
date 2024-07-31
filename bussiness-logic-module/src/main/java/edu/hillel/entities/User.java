@@ -2,9 +2,10 @@ package edu.hillel.entities;
 
 import lombok.*;
 
-@Getter
-@Setter
+@Data
 @Builder
+@AllArgsConstructor
+@NoArgsConstructor
 @EqualsAndHashCode
 public class User {
 
