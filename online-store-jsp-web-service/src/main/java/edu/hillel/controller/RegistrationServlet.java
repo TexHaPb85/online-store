@@ -37,12 +37,10 @@ public class RegistrationServlet extends HttpServlet {
         user.setPassword(request.getParameter("password"));
         user.setName(request.getParameter("name"));
         user.setRole(User.Role.CLIENT);
-        String clientIPAddress = request.getRemoteAddr();
         User loggedInUser;
         try {
             userService.addUser(user);
             loggedInUser = userService.logIn(user.getLogin(), user.getPassword());
-            loggedInUser.setClientIPAddress(clientIPAddress);
             request.getSession().setAttribute("user", loggedInUser);
         } catch (IllegalArgumentException e) {
             request.setAttribute("errorMessage", "User already exist");
